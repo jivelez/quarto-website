@@ -16,7 +16,7 @@ title: ""
 
 ::: {.column width="60%"}
 <br>
-<font size="+2">**Jorge I. Vélez**</font> <br>
+<font size="+2">**Jorge I. Vélez, PhD**</font> <br>
 <font size="+1.1">Assistant Professor of Data Analytics and Genomics</font><br>
 <font size="+1.1">Department of Industrial Engineering</font><br>
 <font size="+1.1">Universidad del Norte, Barranquilla</font><br>
