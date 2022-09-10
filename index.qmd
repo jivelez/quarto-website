@@ -4,26 +4,19 @@ title: ""
 
 <br>
 
-:::: {.columns}
-
-::: {.column width="40%"}
-
 <center>
-<img src="images/avatar.png" width="60%/"/>
+<img src="images/avatar.png" width="30%/"/>
 </center>
 
-:::
-
-::: {.column width="60%"}
 <br>
-<font size="+2">**Jorge I. Vélez, PhD**</font> <br>
-<font size="+1.1">Assistant Professor of Data Analytics and Genomics</font><br>
-<font size="+1.1">Department of Industrial Engineering</font><br>
-<font size="+1.1">Universidad del Norte, Barranquilla</font><br>
+<center>
+<font size="+2.7">**Jorge I. Vélez, PhD**</font> <br>
+<font size="+1.3">Assistant Professor of Data Analytics and Genomics</font><br>
+<font size="+1.3">Department of Industrial Engineering</font><br>
+<font size="+1.3">Universidad del Norte, Barranquilla</font><br>
+</center>
 
-:::
-
-::::
+<br>
 
 ## About
 
@@ -31,7 +24,9 @@ I am an Assistant Professor of Data Analytics and Genomics at the Department of 
 
 My research interests include bioinformatics, population genetics, genetic epidemiology, predictive genomics and Machine Learning applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). 
 
-I received a Ph.D. degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-philosophy-phd) with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, ACT, Australia under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I earned a BSc in Industrial Engineering and a MSc in Statistics from the [National University of Colombia](https://unal.edu.co/en.html), [Medellin](https://en.wikipedia.org/wiki/Medell%C3%ADn). I also conducted research on statistical genetics and bioinformatics at [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch), National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)), National Institutes of Health, Bethesda, MD, under the supervision of [Max Muenke](https://www.linkedin.com/in/maximilian-max-muenke-138932198) and Mauricio Arcos-Burgos.
+I received a Ph.D. degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-philosophy-phd) with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, ACT, Australia under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). 
+
+Before moving to Australia, I earned a BSc in Industrial Engineering and a MSc in Statistics from the [National University of Colombia](https://unal.edu.co/en.html), [Medellin](https://en.wikipedia.org/wiki/Medell%C3%ADn). I also conducted research on statistical genetics and bioinformatics at [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch), National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)), National Institutes of Health, Bethesda, MD, under the supervision of [Max Muenke](https://www.linkedin.com/in/maximilian-max-muenke-138932198) and Mauricio Arcos-Burgos.
 
 I have  more than 15 years of experience in the development and/or application of statistical and analytical methods (i.e., inference, simulation, modelling, and graphical representation) to genetic, industrial, demographic, and financial data, and in the development of new methodologies to analyse it and represent it. I also have strong bases and knowledge in engineering, genetics (including statistical, population and quantitative genetics, and genetic epidemiology), statistical computing, as well as an in-deep understanding of the computational, mathematical, and statistical theories and methodologies involved. Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia, USA and Australia.
 
