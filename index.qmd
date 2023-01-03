@@ -266,7 +266,7 @@ As of December 2022, I have coauthored **86 research papers**. You can access so
 
 <hr>
 
-Copyright ® 2022, webpage made with [RStudio](https://www.rstudio.com/) and [Quarto](https://quarto.org/).
+Copyright ® 2023, webpage made with [RStudio](https://www.rstudio.com/) and [Quarto](https://quarto.org/).
 
 <hr>
 
