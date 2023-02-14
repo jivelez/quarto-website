@@ -17,7 +17,7 @@ title: ""
 
 ## About
 
-I am an Assistant Professor of Data Analytics and Genomics at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial?campaign=SKAGS%20%5BPregrado%5D%20-%20Ingenieria%20Industrial&adgroup=Ingenieria%20Industrial%20Universidad&headline1=Estudia%20Ingenier%C3%ADa%20Industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia.
+I am an Assistant Professor of Data Analytics and Genomics at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia.
 
 My research interests include bioinformatics, population genetics, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
@@ -25,7 +25,7 @@ I received a Ph.D. degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-
 
 Before moving to Australia, I earned a BSc in Industrial Engineering and a MSc in Statistics from the [National University of Colombia](https://unal.edu.co/en.html), [Medellin](https://en.wikipedia.org/wiki/Medell%C3%ADn). I also conducted research on statistical genetics and bioinformatics at the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch), National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)), National Institutes of Health, Bethesda, MD, under the supervision of [Max Muenke](https://www.linkedin.com/in/maximilian-max-muenke-138932198) and Mauricio Arcos-Burgos.
 
-I have more than 15 years of experience in the development and/or application of statistical and analytical methods to analyse and represent genetic, industrial, demographic, and financial data. I also have strong foundations and knowledge in engineering, genetics (i.e., statistical, population and quantitative genetics, and genetic epidemiology), statistical computing, as well as an in-deep understanding of the computational, mathematical, and statistical theories and methodologies involved. Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia, USA and Australia.
+I have more than 15 years of experience in the development and/or application of statistical and analytical methods to analyse and represent genetic, industrial, demographic, and financial data. I also have strong foundations and knowledge in engineering, genetics (i.e., statistical, population and quantitative genetics, and genetic epidemiology) and statistical computing. <!-- , as well as an in-deep understanding of the computational, mathematical, and statistical theories and methodologies involved. --> Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia, USA and Australia.
 
 <!-- Since 2020, I have been working on the identification of common functional genetic variants that modify the age of onset of Alzheimer's disease (AD) in individuals with sporadic AD, as well as variants that confer susceptibility to Attention Deficit Hyperactivity Disorder, Autoimmune diseases, and Huntington's disease in individuals from the Colombian Caribbean region. -->
 
@@ -92,7 +92,7 @@ Please feel free to contact me by [email](mailto:jorgeivanvelez@gmail.com). You 
 
 ## Publications
 
-As of December 2022, I have coauthored **86 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
+As of January 2023, I have coauthored **86 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 ### Research Papers
 
