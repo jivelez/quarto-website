@@ -67,7 +67,7 @@ Please feel free to contact me by [email](mailto:jorgeivanvelez@gmail.com). You 
 
 ## Press Releases
 
--   Reconocimiento a nuestros profesores más citados en Scopus y Google Scholar 2022, , [Universidad del Norte](https://www.uninorte.edu.co/web/grupo-prensa/w/los-profesores-mas-citados), Agosto 2, 2023.
+-   Reconocimiento a nuestros profesores más citados en Scopus y Google Scholar 2022, [Universidad del Norte](https://www.uninorte.edu.co/web/grupo-prensa/w/los-profesores-mas-citados), Agosto 2, 2023.
 -   En Familia con Judith Sarmiento: Misión Origen Genética, Entrevista en [Caracol Radio](https://alacarta.caracol.com.co/audio/1667925135012/), Noviembre 6, 2022. La entrevista comienza en el minuto 15:25.
 -   Estudio sobre mutaciones genéticas revela afectaciones de metabolismo asociadas al TDAH, [Universidad del Norte](https://www.uninorte.edu.co/es/web/grupo-prensa/w/estudio-sobre-mutaciones-geneticas-revela-afectaciones-de-metabolismo-asociadas-al-tdah), Octubre 11, 2022.
 -   Jorge Vélez, la estadística en el estudio del genoma humano, [Universidad del Norte](https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=27083229&groupId=13400067), Junio 13, 2022.
@@ -94,9 +94,11 @@ Please feel free to contact me by [email](mailto:jorgeivanvelez@gmail.com). You 
 
 ## Publications
 
-As of August 2023, I have coauthored **87 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
+As of August 2023, I have coauthored **88 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
-### Research Papers
+<!-- ### Research Papers -->
+
+1.  Garavito-De Egea, G.; Domínguez-Vargas, A.; **Vélez, Jorge I.**; Aroca, G.; Fang, L.; Navarro-Quiroz, E.; Espitaleta, Z.; Toro-Camargo, K.D.; Martínez-Ariza, L.; González-Vargas, T.; García, S.; Arcos-Burgos, M.; Egea, E. Common interacting genetic variation shapes susceptibility to Type 1 diabetes in a Colombian Caribbean community: In search of shared genetic markers. [Genes & Diseases](https://www.sciencedirect.com/science/article/pii/S2352304223003392) (2023).
 
 1.  Ana M. Díaz-Zuluaga, **Jorge I. Vélez**, Mauricio Cuartas, Johanna Valencia, Mauricio Castaño, Juan David Palacio, Mauricio Arcos-Burgos, Carlos López-Jaramillo. Ancestry component as a major predictor of lithium response in the treatment of bipolar disorder. [Journal of Affective Disorders](https://www.sciencedirect.com/science/article/pii/S0165032723004056) (2023).
 
@@ -272,29 +274,29 @@ As of August 2023, I have coauthored **87 research papers**. You can access some
 
 87. Roessler E., Ouspenskaia M.V., Karkera J.D., **Vélez J.I.**, Kantipong A., Lacbawan F., Bowers P., et al.: Reduced NODAL signaling strength via mutation of several pathway members including FOXH1 is linked to human heart defects and holoprosencephaly. [Am. J. Hum. Genet.](https://pubmed.ncbi.nlm.nih.gov/18538293/) 83, 18-29, 2008.
 
-### Proceedings
+<!-- ### Proceedings -->
 
-1.  CM Ferreira-Venegas, **JI Vélez**, GA García-Llinás: Exogenous factors that determine the frequency of fatalities in road accidents in Colombian municipalities, Proceedings of the XXXI International Symposium in Statistics. Manizales, Colombia, August 29-September 2, 2022.
+<!-- 1.  CM Ferreira-Venegas, **JI Vélez**, GA García-Llinás: Exogenous factors that determine the frequency of fatalities in road accidents in Colombian municipalities, Proceedings of the XXXI International Symposium in Statistics. Manizales, Colombia, August 29-September 2, 2022. -->
 
-2.  J Licinio, M Arcos-Burgos, S Liu, **JI Vélez** et al. *PHF21B* gene: Association with Major Depressive Disorder and Modulation of the Stress Response, Proceedings Australian and New Zealand Journal of Psychiatry, 51, pp. 105-105.
+<!-- 2.  J Licinio, M Arcos-Burgos, S Liu, **JI Vélez** et al. *PHF21B* gene: Association with Major Depressive Disorder and Modulation of the Stress Response, Proceedings Australian and New Zealand Journal of Psychiatry, 51, pp. 105-105. -->
 
-3.  **Vélez, J.I.**, Correa, J.C.: Tasa de Falsos Positivos en Microarreglos \[False Discovery Rate in Microarrays\]. [Proceedings](https://www.inec.gob.pa/IASI/docs/announcements/documentos/MemoriasComunicaciones/5%20Velez_CorreaFalsosPositivos.pdf) of the VII Regional Colloquium in Statistics: Applied Statistics. Medellin, Colombia, July 20-23, 2010.
+<!-- 3.  **Vélez, J.I.**, Correa, J.C.: Tasa de Falsos Positivos en Microarreglos \[False Discovery Rate in Microarrays\]. [Proceedings](https://www.inec.gob.pa/IASI/docs/announcements/documentos/MemoriasComunicaciones/5%20Velez_CorreaFalsosPositivos.pdf) of the VII Regional Colloquium in Statistics: Applied Statistics. Medellin, Colombia, July 20-23, 2010. -->
 
-4.  Ángel-Guzmán, J., **Vélez, J.I.**, Correa, J.C.: Un test de diagnóstico de variable agregada para Regresión Poisson \[An added variable diagnostic test in Poisson Regression\]. Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, July 16-20, 2009.
+<!-- 4.  Ángel-Guzmán, J., **Vélez, J.I.**, Correa, J.C.: Un test de diagnóstico de variable agregada para Regresión Poisson \[An added variable diagnostic test in Poisson Regression\]. Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, July 16-20, 2009. -->
 
-5.  **Vélez, J.I.**, Correa, J.C.: Some problems with Principal Component Analysis when the number of variables is greater than the number of observations. Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, Colombia, July 16-20, 2009.
+<!-- 5.  **Vélez, J.I.**, Correa, J.C.: Some problems with Principal Component Analysis when the number of variables is greater than the number of observations. Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, Colombia, July 16-20, 2009. -->
 
-6.  Araújo, L., Ángel, J., **Vélez, J.I.**: Estimation of the Proportion of Defective Product and Inspection Plans in Assembly Processes. Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business, Cartagena, Colombia, August 11-15, 2008.
+<!-- 6.  Araújo, L., Ángel, J., **Vélez, J.I.**: Estimation of the Proportion of Defective Product and Inspection Plans in Assembly Processes. Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business, Cartagena, Colombia, August 11-15, 2008. -->
 
-7.  **Vélez, J.I.**, Correa J.C.: Comparison of t, Bonferroni and FDR procedures to select linear correlation coefficients. Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business. Cartagena, Colombia, August 11-15, 2008.
+<!-- 7.  **Vélez, J.I.**, Correa J.C.: Comparison of t, Bonferroni and FDR procedures to select linear correlation coefficients. Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business. Cartagena, Colombia, August 11-15, 2008. -->
 
-8.  **Vélez, J.I.**, Hernández-Barajas F.: Comparison of Wald and Deviance statistics to include one variable in a Poisson Regression model. Proceedings of the VI Regional Colloquium in Statistics and 6th CEAES Summer School. National University of Colombia at Medellín and University EAFIT, Medellín, Colombia, July 23-25, 2008.
+<!-- 8.  **Vélez, J.I.**, Hernández-Barajas F.: Comparison of Wald and Deviance statistics to include one variable in a Poisson Regression model. Proceedings of the VI Regional Colloquium in Statistics and 6th CEAES Summer School. National University of Colombia at Medellín and University EAFIT, Medellín, Colombia, July 23-25, 2008. -->
 
-9.  **Vélez, J.I.**, Correa J.C.: Estimation of time of firing in the process of polyurethane injection of Industrias HACEB S.A. Proceedings of the XVII Symposium in Statistics and 3rd Binational Meeting Colombia-Venezuela. Bucaramanga, Colombia. July 30-August 3, 2006.
+<!-- 9.  **Vélez, J.I.**, Correa J.C.: Estimation of time of firing in the process of polyurethane injection of Industrias HACEB S.A. Proceedings of the XVII Symposium in Statistics and 3rd Binational Meeting Colombia-Venezuela. Bucaramanga, Colombia. July 30-August 3, 2006. -->
 
-10. **Vélez, J.I.** Reduction of inspection levels to verify one continue variable in an assembly process. Proceedings of the 3rd Regional Colloquium in Statistics, National University of Colombia at Medellín, 2005.
+<!-- 10. **Vélez, J.I.** Reduction of inspection levels to verify one continue variable in an assembly process. Proceedings of the 3rd Regional Colloquium in Statistics, National University of Colombia at Medellín, 2005. -->
 
-<br><br><br>
+<br><br><br><br>
 
 <center>
 
