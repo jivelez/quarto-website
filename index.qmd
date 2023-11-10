@@ -99,9 +99,11 @@ Please feel free to contact me by [email](mailto:jorgeivanvelez@gmail.com). You 
 
 ## Publications
 
-As of November 2023, I have coauthored **89 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
+As of November 2023, I have coauthored **90 research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 <!-- ### Research Papers -->
+
+1. Ahmad, M.; Ríos-Anillo, M.R.; Acosta-López, J.E.; Cervantes-Henríquez, M.L.; Martínez-Banfi, M.; Pineda-Alhucema, W.; Puentes-Rozo, P.; Sánchez-Barros, C.; Pinzón, A.; Patel, H.R.; **Vélez, J. I.**; Villarreal-Camacho, J. L. _et al._ Uncovering the Genetic and Molecular Features of Huntington’s Disease in Northern Colombia. [Int. J. Mol. Sci.](https://doi.org/10.3390/ijms242216154) 2023, 24, 16154. 
 
 1. Palomino, K; Berdugo, C. R.; **Vélez, J. I.** Leading consumption patterns of psychoactive substances in Colombia: A deep neural network-based clustering-oriented embedding approach. [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290098) (2023).
 
