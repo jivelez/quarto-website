@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.536">
+<meta name="generator" content="quarto-1.4.546">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -142,7 +142,7 @@ window.Quarto = {
 <p>I have 15+ years of experience in the development and/or application of statistical and analytical methods to analyse and represent genetic, demographic, industrial and financial data. I also have strong foundations and knowledge in engineering, genetics (i.e., statistical, population and quantitative genetics, and genetic epidemiology) and statistical computing. <!-- , as well as an in-deep understanding of the computational, mathematical, and statistical theories and methodologies involved. --> Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia, USA and Australia.</p>
 <!-- Since 2020, I have been working on the identification of common functional genetic variants that modify the age of onset of Alzheimer's disease (AD) in individuals with sporadic AD, as well as variants that confer susceptibility to Attention Deficit Hyperactivity Disorder, Autoimmune diseases, and Huntington's disease in individuals from the Colombian Caribbean region. -->
 <p>Since October 2022, I serve as the Scientific Director of the <a href="https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer">Alzheimer’s disease (AD) SGR study</a>. This groundbreaking initiative is dedicated to unraveling the genetic intricacies influencing AD susceptibility, age of onset, and disease progression in individuals from the <a href="https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department">Atlántico Department</a>.</p>
-<p>Please feel free to contact me by <a href="mailto:jorgeivanvelez@gmail.com">email</a>. You can find my CV <a href="https://drive.google.com/file/d/1-RKvJH38zjgMYZPu5__W0IFgZIVb9g1_/view?usp=sharing" target="_blank">here</a>.</p>
+<p>Please feel free to contact me by <a href="mailto:jvelezv@uninorte.edu.co">email</a>. You can find my CV <a href="https://drive.google.com/file/d/1-RKvJH38zjgMYZPu5__W0IFgZIVb9g1_/view?usp=sharing" target="_blank">here</a>.</p>
 </section>
 <section id="students" class="level2">
 <h2 class="anchored" data-anchor-id="students">Students</h2>
@@ -513,7 +513,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
