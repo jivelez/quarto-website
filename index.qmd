@@ -119,8 +119,9 @@ PhD
 -   Gene which delays Alzheimer's Disease by 17 years discovered by scientists, [The Telegraph](https://www.telegraph.co.uk/news/health/elder/12027693/Gene-which-delays-Alzheimer-Disease-by-17-years-discovered-by-scientists.html), December 1, 2015.
 -   Scientists find 'gene that delays Alzheimer's', [National Health Service](https://www.nhs.uk/news/genetics-and-stem-cells/scientists-find-gene-that-delays-alzheimers/), UK, December 2, 2015.
 
-## Publications
 
+
+## Publications
 
 ```{r echo=FALSE, message=FALSE}
 ## options
@@ -140,7 +141,7 @@ web <- scan('https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en', w
 citations <- as.numeric(gsub(",", "", web[32]))
 ```
 
-As of February 2024, I have coauthored **90 research papers**, with `r citations` citations with an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
+As of February 2024, I have coauthored **90 research papers**, with `r citations` and an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 <!-- ### Research Papers -->
 
