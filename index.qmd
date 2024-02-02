@@ -122,7 +122,7 @@ PhD
 ## Publications
 
 
-```{r echo=FALSE}
+```{r echo=FALSE, message=FALSE}
 ## options
 options(warn = -1)
 
