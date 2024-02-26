@@ -154,14 +154,14 @@ day <- as.numeric(format(date,"%d"))
 ```
 
 
-As of `r month` `r day`, `r year`, I have coauthored **90 research papers** with a total of `r citations` citations and an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
+As of `r month` `r day`, `r year`, I have coauthored **91 research papers** with a total of `r citations` citations and an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 <!-- ### Research Papers -->
 
 <!-- 1. Diego Sepulveda-Falla, **Jorge I. Vélez**, Natalia Acosta-Baena, Ana Baena, Sonia Moreno, Susanne Krasemann, Francisco Lopera, Claudio A. Mastronardi, Mauricio Arcos-Burgos. Genetic Modifiers of Cognitive Decline in *PSEN1* E280A Alzheimer's disease. _To appear_ in [Alzheimer's & Dementia](https://alz-journals.onlinelibrary.wiley.com/journal/15525279).  -->
 
 
-<!-- 1. Nazhir Jesús Amaya Tejera, Margarita Gamarra, **Jorge I. Vélez**, Eduardo Zurek. A Distance-Based Kernel for Classification Using Support Vector Machines. _To appear_ in [Frontiers in Artificial  Intelligence](https://www.frontiersin.org/articles/10.3389/frai.2024.1287875/abstract). -->
+1. Nazhir Amaya-Tejera, Margarita Gamarra, **Jorge I. Vélez**, Eduardo Zurek. A Distance-Based Kernel for Classification via Support Vector Machines. [Frontiers in Artificial  Intelligence](https://www.frontiersin.org/articles/10.3389/frai.2024.1287875/full), 2024, 7.
 
 1. Ahmad, M.; Ríos-Anillo, M.R.; Acosta-López, J.E.; Cervantes-Henríquez, M.L.; Martínez-Banfi, M.; Pineda-Alhucema, W.; Puentes-Rozo, P.; Sánchez-Barros, C.; Pinzón, A.; Patel, H.R.; **Vélez, J. I.**; Villarreal-Camacho, J. L. _et al._ Uncovering the Genetic and Molecular Features of Huntington’s Disease in Northern Colombia. [Int. J. Mol. Sci.](https://doi.org/10.3390/ijms242216154) 2023, 24, 16154. 
 
