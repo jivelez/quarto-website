@@ -169,7 +169,7 @@ As of `r month` `r day`, `r year`, I have coauthored **92 research papers** with
 
 1. Palomino, K; Berdugo, C. R.; **Vélez, J. I.** Leading consumption patterns of psychoactive substances in Colombia: A deep neural network-based clustering-oriented embedding approach. [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290098) (2023).
 
-1.  Garavito-De Egea, G.; Domínguez-Vargas, A.; **Vélez, J. I.**; Aroca, G.; Fang, L.; Navarro-Quiroz, E.; Espitaleta, Z.; Toro-Camargo, K.D.; Martínez-Ariza, L.; González-Vargas, T.; García, S.; Arcos-Burgos, M.; Egea, E. Common interacting genetic variation shapes susceptibility to Type 1 diabetes in a Colombian Caribbean community: In search of shared genetic markers. [Genes & Diseases](https://www.sciencedirect.com/science/article/pii/S2352304223003392) (2023).
+1.  Garavito-De Egea, G.; Domínguez-Vargas, A.; **Vélez, J. I.**; Aroca, G.; Fang, L.; Navarro-Quiroz, E.; Espitaleta, Z.; Toro-Camargo, K.D.; Martínez-Ariza, L.; González-Vargas, T.; García, S.; Arcos-Burgos, M.; Egea, E. Common interacting genetic variation shapes susceptibility to Type 1 diabetes in a Colombian Caribbean community: In search of shared genetic markers. [Genes & Diseases](https://www.sciencedirect.com/science/article/pii/S2352304223003392?via%3Dihub) 11 (4), pp. 101058, 2023.
 
 1.  Ana M. Díaz-Zuluaga, **Jorge I. Vélez**, Mauricio Cuartas, Johanna Valencia, Mauricio Castaño, Juan David Palacio, Mauricio Arcos-Burgos, Carlos López-Jaramillo. Ancestry component as a major predictor of lithium response in the treatment of bipolar disorder. [Journal of Affective Disorders](https://www.sciencedirect.com/science/article/pii/S0165032723004056) (2023).
 
