@@ -378,7 +378,7 @@ As of `r month` `r day`, `r year`, I have coauthored **93 research papers** with
 
 <hr>
 
-Copyright ® 2024, webpage made with [RStudio](https://posit.co/products/open-source/rstudio/) and [Quarto](https://quarto.org/).
+Copyright® 2024. <br> Webpage made with [Quarto](https://quarto.org/) by [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/).
 
 <hr>
 
