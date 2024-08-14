@@ -5,14 +5,16 @@ title: ""
 <br>
 
 <center>
-<img src="images/avatar.jpg" width="25%"/>
+<img src="images/avatar.jpg" width="27%"/>
 </center>
 
 <br>
 
 <!-- ![](https://www.uninorte.edu.co/documents/13969336/22078217/JORGE%20V%C3%89LEZ%20-%20%20INGENIERO%20INDUSTRIAL%20CO-DIRECTOR%20DE%20PROCAM.jpg){.border fig-align="center" width=60%} -->
 
-<center><font size="+2">**Jorge I. Vélez, PhD**</font> <br> <font size="+1.2">Assistant Professor</font><br> <font size="+1.2">Department of Industrial Engineering</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center><br>
+<center><font size="+2">**Jorge I. Vélez, PhD**</font> <br> <font size="+1.2">Assistant Professor</font><br> 
+<font size="+1.2">Department of Industrial Engineering</font><br> 
+<font size="+1.2">Universidad del Norte, Barranquilla</font><br></center><br>
 
 <!-- <br> -->
 
@@ -45,9 +47,8 @@ Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You c
 
 MSc
 
-1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app/). MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada), Universidad del Norte, Barranquilla.
 1.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
-1.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla. <!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
+2.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla. <!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
 
 PhD
 
