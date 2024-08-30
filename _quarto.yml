@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: spacelab # default cerulean cosmo cyborg darkly flatly 
+    theme: minty # default cerulean cosmo cyborg darkly flatly 
                    # journal litera lumen lux materia minty 
                    # morph pulse quartz sandstone simplex sketchy
                    # slate solar spacelab superhero united vapor yeti zephyr
@@ -24,6 +24,7 @@ format:
     toc-title: " "  
     number-sections: false
     code-copy: true
+    page-layout: full
 
 #editor: visual
 

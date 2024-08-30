@@ -20,7 +20,7 @@ title: ""
 
 ## About
 
-I am an Assistant Professor of Data Analytics and Genomics at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
 I earned a PhD degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-philosophy-phd) with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
 
@@ -404,7 +404,7 @@ As of `r month` `r day`, `r year`, I have coauthored **94 research papers** with
 
 <center>
   <p>Copyright® 2024. <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br>
- Last updated: `r month` `r day`, `r year`.
+ Modified: `r month` `r day`, `r year`.
 </center>
 
 <hr>
