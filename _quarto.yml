@@ -24,7 +24,6 @@ format:
     toc-title: " "  
     number-sections: false
     code-copy: true
-    page-layout: full
 
 #editor: visual
 
