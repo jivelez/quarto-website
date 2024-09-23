@@ -50,8 +50,10 @@ MSc
 
 1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app
 ). MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada), Universidad del Norte, Barranquilla.
-1.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
-2.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla. <!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
+2.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
+3.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
+4.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. <!-- Thesis: *Lectura Inteligente del Consumo de Gas Natural Domiciliario Mediante un Modelo de Lenguaje de Visión*. September 2024. -->
+<!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
 
 PhD
 
@@ -70,7 +72,6 @@ MSc
 4.  [Dariela Castro Polo](https://www.linkedin.com/in/dariela-margarita-castro-polo-/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Spatio-Temporal Analysis of Freight Flows and Rate Per Mile: A Case Study of U.S. Transportation Corridors*. September 2024.
 5.  [Edgard Navarro Peñaloza](https://www.linkedin.com/in/edgard-navarro-5662b41b9/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Sistema de Recomendación de Jugadores para Equipos de Fútbol de la Premier League basado en Machine Learning*. September 2024.
 6.  [Hillary Villarreal](https://www.linkedin.com/in/hillary-isabel-villarreal-de-hoyos-698169200/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Factores Psicosociales y su Influencia en la Eficiencia Organizacional: Un Enfoque basado en Machine Learning*. September 2024.
-7.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Lectura Inteligente del Consumo de Gas Natural Domiciliario Mediante un Modelo de Lenguaje de Visión*. September 2024.
 8.  [Lina Gómez Araque](https://www.linkedin.com/in/lina-gomez-araque-bb937621a/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Sistema Adaptable para la Detección Automática de Transacciones Fraudulentas en Plataformas Digitales*. September 2024.
 9.  [Laura Zapata Prada](https://www.linkedin.com/in/laura-zapata-prada?originalSubdomain=co). MSc in Industrial Engineering, Universidad del Norte, Barranquilla (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co)). Thesis: *Asignación de Recursos para la Distribución de Vacunas vía Machine Learning: Caso Aplicado Barranquilla*. December 2023.
 10. Luedis Duarte Barboza. MSc in Applied Statistics, Universidad del Norte, Barranquilla (with [Lorenleyn De La Hoz Alford](https://www.linkedin.com/in/lorenleyn-de-la-hoz-alford-767b96282/?originalSubdomain=co)). Thesis: *Identificación de Variables Determinantes del Comportamiento Mecánico de Espumas de Poliuretano de Origen Natural*. July 2022.
