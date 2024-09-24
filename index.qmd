@@ -5,7 +5,7 @@ title: ""
 <br>
 
 <center>
-<img src="images/avatar.jpg" width="27%"/>
+<img src="images/avatar.png" width="28%"/>
 </center>
 
 <br>
@@ -186,6 +186,8 @@ day <- as.numeric(format(date,"%d"))
 As of `r month` `r day`, `r year`, I have coauthored **94 research papers** with a total of `r citations` citations and an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2007-2024&sort=pubdate), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 <!-- ### Research Papers -->
+
+<!-- 1. Jairo A. Angel, Francisco M.M. Rocha, **Jorge I. Vélez** and Julio M. Singer. A new test for detecting specification errors in Gaussian linear mixed-effects models. -->
 
 1.  Maria I. Mosquera-Heredia, Oscar M. Vidal, Luis C. Morales, Carlos Silvera-Redondo, Ernesto Barceló, Ricardo Allegri, Mauricio Arcos-Burgos, **Jorge I. Vélez**, Pilar Garavito-Galofre. Long Non-Coding RNAs and Alzheimer's disease: Towards Personalized Diagnosis. [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/25/14/7641). 25(4):7641.
 
