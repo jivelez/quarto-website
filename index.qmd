@@ -5,7 +5,7 @@ title: ""
 <br>
 
 <center>
-<img src="images/avatar.png" width="28%"/>
+<img src="images/avatar.png" width="27%"/>
 </center>
 
 <br>
