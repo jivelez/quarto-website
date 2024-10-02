@@ -38,7 +38,7 @@ I earned a PhD degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-phil
 <!-- Since 2020, I have been working on the identification of common functional genetic variants that modify the age of onset of Alzheimer's disease (AD) in individuals with sporadic AD, as well as variants that confer susceptibility to Attention Deficit Hyperactivity Disorder, Autoimmune diseases, and Huntington's disease in individuals from the Colombian Caribbean region. -->
 ```
 
-Since October 2022, I serve as the Scientific Director of the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer). This initiative is dedicated to unraveling the genetic landscape associated to AD susceptibility, age of onset, and disease progression in individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department).
+I have been the Scientific Director of the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer) since October 2022.  This initiative is dedicated to unraveling the genetic landscape associated to AD susceptibility, age of onset, and disease progression in individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department).
 
 Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>.
 
