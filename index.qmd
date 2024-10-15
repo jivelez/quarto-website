@@ -20,9 +20,9 @@ title: ""
 
 ## About
 
-I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia). My research interests include applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
-I earned a PhD degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-philosophy-phd) with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
+I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
 
 <!--the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch), National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)), National Institutes of Health, Bethesda, MD, under the supervision of [Max Muenke](https://www.linkedin.com/in/maximilian-max-muenke-138932198) and Mauricio Arcos-Burgos. -->
 
@@ -140,8 +140,6 @@ PhD
 
 <!-- #### Working papers -->
 
-<!-- 1.⁠ ⁠mRNA signatures predict risk and age of onset in Alzheimer's disease (with Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos and Pilar Garavito-Galofre). -->
-
 <!-- 1.⁠ ⁠Alzheimer's disease SGR Study in Atlántico, Colombia: Baseline Demographic, Clinical, and Cognitive Characteristics (with María I. Mosquera-Heredia, Oscar M. Vidal, Carlos Silvera-Redondo, Ernesto Barceló, Ricardo Allegri, Mauricio Arcos-Burgos and Pilar Garavito-Galofre). -->
 
 <!-- 1.⁠ ⁠A Machine Learning-based Clinical Diagnostic Tool for Alzheimer's disease: Insights from a Caribbean Community (with Ernesto Barceló, Dubán Romero, María I. Mosquera-Heredia, Oscar M. Vidal, Carlos Silvera-Redondo, Ricardo Allegri and Pilar Garavito-Galofre). -->
@@ -186,6 +184,12 @@ day <- as.numeric(format(date,"%d"))
 As of `r month` `r day`, `r year`, I have coauthored **95 ISI/SCOPUS research papers** with a total of `r citations` citations and an $h_\text{index}$ of `r h_index`. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2007-2024&sort=pubdate), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
 <!-- ### Research Papers -->
+
+
+1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, 
+Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease.
+_To appear_ in [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms).
+
 
 1. Jairo A. Angel, Francisco M.M. Rocha, **Jorge I. Vélez** and Julio M. Singer. A new test for detecting specification errors in Gaussian linear mixed-effects models. _To appear_ in [AIMS Mathematics](https://www.aimspress.com/journal/math).
 
