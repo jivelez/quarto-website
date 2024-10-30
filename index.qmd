@@ -57,6 +57,7 @@ MSc
 
 PhD
 
+<!-- 1.  [Mauro González Sierra](https://www.linkedin.com/in/luis-alberto-avila-lorduy-17a39762/?originalSubdomain=co). PhD student in [Electric and Electronic Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-electrica-y-electronica) (with [Adriana Arango Manrique](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO&id_docente=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO%2018)), Universidad del Norte, Barranquilla. -->
 1.  [Luis Alberto Ávila](https://www.linkedin.com/in/luis-alberto-avila-lorduy-17a39762/?originalSubdomain=co). PhD student in [Civil Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-civil) (with [Vicente Mercado](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%2015)), Universidad del Norte, Barranquilla.
 2.  [Maria Isabel Arrieta](https://www.linkedin.com/in/maria-isabel-arrieta-escobar-40396291/?originalSubdomain=co). PhD candidate in [Industrial Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)), Universidad del Norte, Barranquilla.
 3.  [Carlos M. Ferreira](https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140). PhD candidate in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)), Universidad del Norte, Barranquilla.
@@ -90,6 +91,7 @@ PhD
 
 ## Honors & Awards
 
+<!-- - **Premio a la Excelencia Docente** [Teaching Excellence Award], Universidad del Norte, Noviembre 13, 2024. This recognition is awarded to the top-rated permanent lecturer and professor in each department, based on student teaching evaluations. -->
 -   **Highly Cited Researcher**, Universidad del Norte, Barranquilla, Colombia. July 31, 2023. This recognition is given by the [Vice-Chancellor's Office for Research, Creation and Innovation](https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion) to the 25 highly cited researcher/professors over the last 5 years according to [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600) (3/25) and [Google Scholar](https://scholar.google.com/citations?user=GFxNB78AAAAJ&hl=es&authuser=1) (8/25).
 -   **Outstanding Research Award**, Department of Industrial Engineering, Division of Engineering, Universidad del Norte, Barranquilla, Colombia. January 15, 2023. This award recognizes the outstanding publishing record of up to three Professors during the previous academic year.
 -   **Highly Cited Researcher**, Universidad del Norte, Barranquilla, Colombia. March 10, 2022. This recognition is given by the [Vice-Chancellor's Office for Research, Creation and Innovation](https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion) to the 25 highly cited researcher/professors over the last 5 years according to [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600) (3/25) and [Google Scholar](https://scholar.google.com/citations?user=GFxNB78AAAAJ&hl=es&authuser=1) (7/25).
@@ -170,8 +172,6 @@ cites <- scholar::get_publications(id)$cites
 h_index <- tail(which(cites >= seq_along(cites)), 1)
 
 ## calculate citations
-#web <- scan('https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en', what = 'character', quiet = TRUE)
-#citations <- as.numeric(gsub(",", "", web[32]))
 citations <- sum(cites)
 
 ## date
@@ -186,12 +186,11 @@ As of `r month` `r day`, `r year`, I have coauthored **96 ISI/SCOPUS research pa
 <!-- ### Research Papers -->
 
 
-1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, 
-Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease.
+1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease.
 _To appear_ in [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms).
 
 
-1. Jairo A. Angel, Francisco M.M. Rocha, **Jorge I. Vélez** and Julio M. Singer. A new test for detecting specification errors in Gaussian linear mixed-effects models. _To appear_ in [AIMS Mathematics](https://www.aimspress.com/journal/math).
+1. Jairo A. Angel, Francisco M.M. Rocha, **Jorge I. Vélez** and Julio M. Singer. A new test for detecting specification errors in Gaussian linear mixed-effects models. [AIMS Mathematics](https://www.aimspress.com/article/doi/10.3934/math.20241483), 2024, 9(11): 30710-30727.
 
 1.  Maria I. Mosquera-Heredia, Oscar M. Vidal, Luis C. Morales, Carlos Silvera-Redondo, Ernesto Barceló, Ricardo Allegri, Mauricio Arcos-Burgos, **Jorge I. Vélez**, Pilar Garavito-Galofre. Long Non-Coding RNAs and Alzheimer's disease: Towards Personalized Diagnosis. [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/25/14/7641). 25(4):7641.
 
