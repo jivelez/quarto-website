@@ -48,11 +48,12 @@ Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You c
 
 MSc
 
+1. Javier De Moya. MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) (with [Carlos De Oro](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20MATEMATICAS%20Y%20ESTADIST.&id_docente=DPTO.%20MATEMATICAS%20Y%20ESTADIST.%203)), Universidad del Norte, Barranquilla.
 1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app
-). MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada), Universidad del Norte, Barranquilla.
+). MSc in Applied Statistics, Universidad del Norte, Barranquilla.
 2.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
 3.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
-4.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. <!-- Thesis: *Lectura Inteligente del Consumo de Gas Natural Domiciliario Mediante un Modelo de Lenguaje de Visión*. September 2024. -->
+ <!-- Thesis: *Lectura Inteligente del Consumo de Gas Natural Domiciliario Mediante un Modelo de Lenguaje de Visión*. September 2024. -->
 <!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
 
 PhD
@@ -67,6 +68,7 @@ PhD
 
 MSc
 
+1.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Lectura inteligente del consumo de Gas Natural Domiciliario mediante un Vision Language Model*. October 2024.
 1.  [Juliana Rivera Álvarez](https://www.linkedin.com/in/juliana-esther-rivera-alvarez-a7043a2a9/?originalSubdomain=co). MSc in [Civil Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-civil?utm_source=google&utm_medium=cpc&utm_campaign=posgrados_google_2024&gad_source=1&gclid=CjwKCAjw26KxBhBDEiwAu6KXt5U-0dQouOrK-QpLAx8GMBviPBfyb9WJv-wcujbUQsa7YbkXFqgKMhoClxMQAvD_BwE) (with [Carlos Arteta Torrents](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%201)), Universidad del Norte, Barranquilla. Thesis: *Optimization of Sampling Methodology for Seismic Exposure Modelling: Establishing Homogeneous Zones using Machine Learning*. September 2024.
 2.  [Alba Yamile Aponte Vargas](https://www.linkedin.com/in/alba-yamile-aponte-vargas-204a0517a/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Predicción de Transacciones en Bolsa de una Empresa de Generación para una Ventana Móvil de 7 Días*. September 2024.
 3.  [Daniel Bolívar Pimiento](https://danielbolivar-website.netlify.app/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *From Data to Diagnosis: mRNA Insights for Understanding Alzheimer's Disease in a Caribbean Population*. September 2024.
