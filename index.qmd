@@ -94,6 +94,15 @@ PhD
 ## Honors & Awards
 
 <!-- - **Premio a la Excelencia Docente** [Teaching Excellence Award], Universidad del Norte, Noviembre 13, 2024. This recognition is awarded to the top-rated permanent lecturer and professor in each department, based on student teaching evaluations. -->
+
+<!-- ocupar el sexto puesto en el listado de profesores con mayor cantidad -->
+<!-- de citas en los últimos 5 años SCOPUS, el octavo puesto en el listado de profesores con mayor -->
+<!-- cantidad de citas en total Google Scholar, el tercer puesto en el listado profesores con mayor -->
+<!-- H-index en los últimos 5 años SCOPUS, el mayor H-index en los últimos 5 años scopus en su -->
+<!-- división, el octavo puesto en el listado profesores con mayor H-index en total Google Scholar -->
+<!-- y el mayor H-index en total Google Scholar en su división. -->
+
+
 -   **Highly Cited Researcher**, Universidad del Norte, Barranquilla, Colombia. July 31, 2023. This recognition is given by the [Vice-Chancellor's Office for Research, Creation and Innovation](https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion) to the 25 highly cited researcher/professors over the last 5 years according to [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600) (3/25) and [Google Scholar](https://scholar.google.com/citations?user=GFxNB78AAAAJ&hl=es&authuser=1) (8/25).
 -   **Outstanding Research Award**, Department of Industrial Engineering, Division of Engineering, Universidad del Norte, Barranquilla, Colombia. January 15, 2023. This award recognizes the outstanding publishing record of up to three Professors during the previous academic year.
 -   **Highly Cited Researcher**, Universidad del Norte, Barranquilla, Colombia. March 10, 2022. This recognition is given by the [Vice-Chancellor's Office for Research, Creation and Innovation](https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion) to the 25 highly cited researcher/professors over the last 5 years according to [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600) (3/25) and [Google Scholar](https://scholar.google.com/citations?user=GFxNB78AAAAJ&hl=es&authuser=1) (7/25).
