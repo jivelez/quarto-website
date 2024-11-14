@@ -22,7 +22,6 @@ format:
     toc: true
     toc-location: right
     toc-title: " "  
-    size: 14pt
     number-sections: false
     code-copy: true
 
