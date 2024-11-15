@@ -196,8 +196,7 @@ As of `r month` `r day`, `r year`, I have coauthored **96 ISI/SCOPUS research pa
 <!-- ### Research Papers -->
 
 
-1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease.
-_To appear_ in [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms).
+1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease. [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/25/22/12293). 25(22):12293.
 
 1. Jairo A. Angel, Francisco M.M. Rocha, **Jorge I. Vélez** and Julio M. Singer. A new test for detecting specification errors in Gaussian linear mixed-effects models. [AIMS Mathematics](https://www.aimspress.com/article/doi/10.3934/math.20241483), 2024, 9(11): 30710-30727.
 
