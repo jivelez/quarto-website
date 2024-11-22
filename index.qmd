@@ -248,13 +248,13 @@ As of `r month` `r day`, `r year`, I have coauthored **96 ISI/SCOPUS research pa
 
 24. **Vélez JI**, Samper LA, Arcos-Holzinger M, Espinosa LG, Isaza-Ruget MA, Lopera F, Arcos-Burgos M. A Comprehensive Machine Learning Framework for the Exact Prediction of the Age of Onset in Familial and Sporadic Alzheimer's Disease. [Diagnostics](https://www.mdpi.com/2075-4418/11/5/887). 11, 887, 2021.
 
-25. **Vélez, J. I.**. Machine Learning Psychology: Advocating for a Data-Driven Approach. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/5365), 14(1), 6--11.
+25. **Vélez, J. I.**. Machine Learning Psychology: Advocating for a Data-Driven Approach. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/5365), 2021; 14(1), 6--11.
 
-26. Diego Sepulveda-Falla, Lucia Chavez-Gutierrez, Erik Portelius, **Jorge I. Vélez**, Simon Dujardin, et al. A multifactorial model of pathology for age of onset heterogeneity in familial Alzheimer's disease. [Acta Neuropathologica](https://link.springer.com/article/10.1007/s00401-020-02249-0), 141, pp. 217-33.
+26. Diego Sepulveda-Falla, Lucia Chavez-Gutierrez, Erik Portelius, **Jorge I. Vélez**, Simon Dujardin, et al. A multifactorial model of pathology for age of onset heterogeneity in familial Alzheimer's disease. [Acta Neuropathologica](https://link.springer.com/article/10.1007/s00401-020-02249-0), 2021; 141, pp. 217-33.
 
-27. Jose L. López-Prado, **Jorge I. Vélez**, Guisselle A. García-Llinás Reliability Evaluation in Distribution Networks with Microgrids: Review and Classification of the Literature. [Energies](https://www.mdpi.com/1996-1073/13/23/6189) 23 (13), pp. 1-31.
+27. Jose L. López-Prado, **Jorge I. Vélez**, Guisselle A. García-Llinás Reliability Evaluation in Distribution Networks with Microgrids: Review and Classification of the Literature. [Energies](https://www.mdpi.com/1996-1073/13/23/6189) 2020; 23 (13), pp. 1-31.
 
-28. Maria Camila Navarro, Fernando Marmolejo-Ramos, Valentina Vásquez, Bárbara Carrea, **Jorge I. Vélez**, Moisés Mebarak Chams. An Exploratory Study for Assessment of Multimodal Semantic Memory in Colombian Children. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/4847), 13 (2), pp. 49-58.
+28. Maria Camila Navarro, Fernando Marmolejo-Ramos, Valentina Vásquez, Bárbara Carrea, **Jorge I. Vélez**, Moisés Mebarak Chams. An Exploratory Study for Assessment of Multimodal Semantic Memory in Colombian Children. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/4847), 2020; 13 (2), pp. 49-58.
 
 29. Marcela Henriquez-Henriquez, Maria T. Acosta, Ariel F. Martinez, **Jorge I. Vélez**, Francisco Lopera, David Pineda, Juan D. Palacio, Teresa Quiroga, Tilla S. Worgall, Richard J. Deckelbaum, Claudio Mastronardi, Brooke S. G. Molina, the MTA Cooperative Group, Mauricio Arcos-Burgos, Maximilian Muenke. Mutations in sphingolipid metabolism genes are associated with ADHD. [Translational Psychiatry](https://www.nature.com/articles/s41398-020-00881-8), 2020.
 
