@@ -49,10 +49,16 @@ Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You c
 MSc
 
 1. Javier De Moya. MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) (with [Carlos De Oro](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20MATEMATICAS%20Y%20ESTADIST.&id_docente=DPTO.%20MATEMATICAS%20Y%20ESTADIST.%203)), Universidad del Norte, Barranquilla.
+1.  [Johanna Blanquicet Pereira](https://www.linkedin.com/in/johanna-blanquicet-pereira-b52b821b9/?originalSubdomain=co). MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
+1.  Jason Barrios Mosquera. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  Isabella Giraldo Gómez. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  Karen Gómez Durán. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  [David Lizcano Martínez](https://www.linkedin.com/in/david-lizcano-mart%C3%ADnez-1305b0294/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  [Claudia Rueda Londoño](https://www.linkedin.com/in/claudia-rueda-londo%C3%B1o-7845551a6/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
 1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app
 ). MSc in Applied Statistics, Universidad del Norte, Barranquilla.
 2.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
-3.  Gustavo Sánchez Guerrero. MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
+3.  Gustavo Sánchez Guerrero. MSc in Data Analytics, Universidad del Norte, Barranquilla.
  <!-- Thesis: *Lectura Inteligente del Consumo de Gas Natural Domiciliario Mediante un Modelo de Lenguaje de Visión*. September 2024. -->
 <!-- 1.  [Cristian Colpas Mendoza](https://www.linkedin.com/in/cristian-andres-colpas-mendoza-1a1a53237/?trk=people_directory&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. -->
 
@@ -228,7 +234,7 @@ As of `r month` `r day`, `r year`, I have coauthored **96 ISI/SCOPUS research pa
 
 14. Quintero-Arteaga, C.; Peñabaena-Niebles, P.; **Vélez, J. I.**; Jubiz-Diaz, M. (2022). Statistical design of an adaptive synthetic $\bar{X}$ control chart for autocorrelated processes. [Quality and Reliability Engineering International](http://doi.org/10.1002/qre.3086).
 
-15. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. (2022). Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype? (2022). [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), S0165-0327(21)01121-6.
+15. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype?. [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), 2022, S0165-0327(21)01121-6.
 
 16. Acosta-López, J.E.; Suárez, I.; Pineda, D.A.; Cervantes-Henríquez, M.L.; Martínez-Banfi, M.L.; Lozano-Gutiérrez, S.G.; Ahmad, M.; Pineda-Alhucema, W.; Noguera-Machacón, L.M.; De La Hoz, M.; Mejía-Segura, E.; Jiménez-Figueroa, G.; Sánchez-Rojas, M.; Mastronardi, C.A.; Arcos-Burgos, M.; **Vélez, J.I.**; Puentes-Rozo, P.J. Impulsive and Omission Errors: Potential Temporal Processing Endophenotypes in ADHD. [Brain Sciences](https://www.mdpi.com/2076-3425/11/9/1218). 11(9), 1218, 2021.
 
