@@ -19,7 +19,7 @@ format:
                    # morph pulse quartz sandstone simplex sketchy
                    # slate solar spacelab superhero united vapor yeti zephyr
     css: styles.css
-    toc: false
+    toc: true
     toc-location: right
     toc-title: ""  
     number-sections: false
