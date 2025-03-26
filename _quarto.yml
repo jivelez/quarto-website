@@ -7,7 +7,7 @@ website:
   #favicon: "fa-duotone fa-dna"
   navbar:
     right:
-      - href: about.qmd
+      - href: index.qmd
         text: "About"
       - href: students.qmd
         text: ""
@@ -16,9 +16,7 @@ website:
       - href: media.qmd
         text: ""        
       - href: publications.qmd
-        text: ""        
-      #- publications.qmd
-
+        text: ""
 format:
   html:
     theme: spacelab # default cerulean cosmo cyborg darkly flatly 
