@@ -5,11 +5,18 @@ project:
 website:
   title: "Jorge I. Vélez"
   #favicon: "fa-duotone fa-dna"
-  #navbar:
-  #  right:
-  #    - href: index.qmd
-  #      text: ""
-      #- about.qmd
+  navbar:
+    right:
+      - href: about.qmd
+        text: "About"
+      - href: students.qmd
+        text: ""
+      - href: awards.qmd
+        text: ""
+      - href: media.qmd
+        text: ""        
+      - href: publications.qmd
+        text: ""        
       #- publications.qmd
 
 format:
@@ -19,7 +26,7 @@ format:
                    # morph pulse quartz sandstone simplex sketchy
                    # slate solar spacelab superhero united vapor yeti zephyr
     css: styles.css
-    toc: true
+    toc: false
     toc-location: right
     toc-title: " "  
     number-sections: false

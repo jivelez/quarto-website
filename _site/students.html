@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>about – Jorge I. Vélez</title>
+<title>Students – Jorge I. Vélez</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -89,11 +118,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./students.html"> 
+    <a class="nav-link active" href="./students.html" aria-current="page"> 
 <span class="menu-text">Students</span></a>
   </li>  
   <li class="nav-item">
@@ -123,38 +152,91 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Students</h1>
+</div>
 
 
 
-<p><br></p>
-<center>
-<img src="images/avatar.png" width="27%">
-</center>
-<p><br></p>
-<!-- ![](https://www.uninorte.edu.co/documents/13969336/22078217/JORGE%20V%C3%89LEZ%20-%20%20INGENIERO%20INDUSTRIAL%20CO-DIRECTOR%20DE%20PROCAM.jpg){.border fig-align="center" width=60%} -->
-<center>
-<font size="+1.8"><strong>Jorge I. Vélez, PhD</strong></font> <br> <font size="+1.15">Assistant Professor</font><br> <font size="+1.15">Department of Industrial Engineering</font><br> <font size="+1.15">Universidad del Norte, Barranquilla</font><br>
-</center>
-<p><br></p>
-<!-- <br> -->
-<p>I am an Assistant Professor at the Department of <a href="https://www.uninorte.edu.co/web/ingenieria-industrial">Industrial Engineering</a>, <a href="https://www.uninorte.edu.co/">Universidad del Norte</a>, <a href="https://en.wikipedia.org/wiki/Barranquilla">Barranquilla</a>, <a href="https://en.wikipedia.org/wiki/Colombia">Colombia</a>. My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). --></p>
-<p>I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the <a href="https://jcsmr.anu.edu.au/">John Curtin School of Medical Research</a> at the <a href="https://www.anu.edu.au/">Australian National University</a> under the supervision of <a href="https://scholar.google.com/citations?user=MZlwFqgAAAAJ&amp;hl=es&amp;authuser=1">Mauricio Arcos-Burgos</a>. Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the <a href="https://www.genome.gov/">National Human Genome Research Institute</a> in Bethesda, MD, USA under the supervision of <a href="https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp">Max Muenke</a> and Mauricio Arcos-Burgos, within the <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch">Medical Genetics Branch</a>.</p>
-<p>Since October 2022, I lead the <a href="https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer">Alzheimer’s disease (AD) SGR study</a>. This initiative is dedicated to unraveling the genetic landscape associated to AD susceptibility, age of onset, and disease progression in individuals from the <a href="https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department">Atlántico Department</a>.</p>
-<p>Please feel free to contact me by <a href="mailto:jvelezv@uninorte.edu.co">email</a>. You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&amp;dl=0" target="_blank">here</a>.</p>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="current-students" class="level4">
+<h4 class="anchored" data-anchor-id="current-students">Current students</h4>
+<p>MSc</p>
+<ol type="1">
+<li><a href="https://co.linkedin.com/in/kelly-johana-carrascal-martinez">Kelly Carrascal Martínez</a>. MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial">Industrial Engineering</a>, Universidad del Norte, Barranquilla.</li>
+<li>Javier De Moya. MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada">Applied Statistics</a> (with <a href="https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20MATEMATICAS%20Y%20ESTADIST.&amp;id_docente=DPTO.%20MATEMATICAS%20Y%20ESTADIST.%2028">Carlos De Oro</a>, Universidad del Norte, Barranquilla.</li>
+<li><a href="https://www.linkedin.com/in/johanna-blanquicet-pereira-b52b821b9/?originalSubdomain=co">Johanna Blanquicet Pereira</a>. MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos">Data Analytics</a>, Universidad del Norte, Barranquilla.</li>
+<li>Jason Barrios Mosquera. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+<li>Isabella Giraldo Gómez. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+<li>Karen Gómez Durán. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+<li><a href="https://www.linkedin.com/in/david-lizcano-mart%C3%ADnez-1305b0294/?originalSubdomain=co">David Lizcano Martínez</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+<li><a href="https://www.linkedin.com/in/claudia-rueda-londo%C3%B1o-7845551a6/?originalSubdomain=co">Claudia Rueda Londoño</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+<li>Gustavo Sánchez Guerrero. MSc in Data Analytics, Universidad del Norte, Barranquilla.</li>
+</ol>
+<p>PhD</p>
+<ol type="1">
+<li><a href="https://www.linkedin.com/in/mauro-gonzalez-sierra/?originalSubdomain=co">Mauro González Sierra</a>. PhD student in <a href="https://www.uninorte.edu.co/web/doctorado-en-ingenieria-electrica-y-electronica">Electric and Electronic Engineering</a> (with <a href="https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO&amp;id_docente=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO%2016">Adriana Arango Manrique</a>), Universidad del Norte, Barranquilla.</li>
+<li><a href="https://www.linkedin.com/in/luis-alberto-avila-lorduy-17a39762/?originalSubdomain=co">Luis Alberto Ávila</a>. PhD candidate in <a href="https://www.uninorte.edu.co/web/doctorado-en-ingenieria-civil">Civil Engineering</a> (with <a href="https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&amp;id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%2016">Vicente Mercado</a>), Universidad del Norte, Barranquilla.</li>
+<li><a href="https://www.linkedin.com/in/maria-isabel-arrieta-escobar-40396291/?originalSubdomain=co">Maria Isabel Arrieta</a>. PhD candidate in <a href="https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial">Industrial Engineering</a> (with <a href="https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387">Guisselle García Llinás</a>), Universidad del Norte, Barranquilla.</li>
+<li>Lilybeth Martinez Olivares. PhD candidate in <a href="https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas">Biomedical Sciences</a> (with <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028550">Oscar Vidal Orjuela</a>), Universidad del Norte, Barranquilla. <!-- 2.  [Elsy Mejía Segura](https://scholar.google.com/citations?user=Ml5bixkAAAAJ&hl=es). PhD in Psychology with Orientation in Neurosciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133)). Universidad de Flores, Buenos Aires, Argentina. --></li>
+</ol>
+</section>
+<section id="previous-students" class="level4">
+<h4 class="anchored" data-anchor-id="previous-students">Previous students</h4>
+<p>MSc</p>
+<ol type="1">
+<li><a href="https://jose-mercado-reyes.netlify.app">Jose Javier Mercado</a>. MSc in Applied Statistics, Universidad del Norte, Barranquilla. Thesis: <em>Dinámica de los Servicios de Salud en Barranquilla: Un Estudio Integrado de Demanda, Accesibilidad y Duración de la Hospitalización</em>. December 2024.</li>
+<li><a href="https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co">Kadir Ortega</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Lectura inteligente del consumo de Gas Natural Domiciliario mediante un Vision Language Model</em>. October 2024.</li>
+<li><a href="https://www.linkedin.com/in/juliana-esther-rivera-alvarez-a7043a2a9/?originalSubdomain=co">Juliana Rivera Álvarez</a>. MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-ingenieria-civil?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=posgrados_google_2024&amp;gad_source=1&amp;gclid=CjwKCAjw26KxBhBDEiwAu6KXt5U-0dQouOrK-QpLAx8GMBviPBfyb9WJv-wcujbUQsa7YbkXFqgKMhoClxMQAvD_BwE">Civil Engineering</a> (with <a href="https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&amp;id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%201">Carlos Arteta Torrents</a>), Universidad del Norte, Barranquilla. Thesis: <em>Optimization of Sampling Methodology for Seismic Exposure Modelling: Establishing Homogeneous Zones using Machine Learning</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/alba-yamile-aponte-vargas-204a0517a/?originalSubdomain=co">Alba Yamile Aponte Vargas</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Predicción de Transacciones en Bolsa de una Empresa de Generación para una Ventana Móvil de 7 Días</em>. September 2024.</li>
+<li><a href="https://danielbolivar-website.netlify.app/">Daniel Bolívar Pimiento</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>From Data to Diagnosis: mRNA Insights for Understanding Alzheimer’s Disease in a Caribbean Population</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/dariela-margarita-castro-polo-/">Dariela Castro Polo</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Spatio-Temporal Analysis of Freight Flows and Rate Per Mile: A Case Study of U.S. Transportation Corridors</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/edgard-navarro-5662b41b9/">Edgard Navarro Peñaloza</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Sistema de Recomendación de Jugadores para Equipos de Fútbol de la Premier League basado en Machine Learning</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/hillary-isabel-villarreal-de-hoyos-698169200/?originalSubdomain=co">Hillary Villarreal</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Factores Psicosociales y su Influencia en la Eficiencia Organizacional: Un Enfoque basado en Machine Learning</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/lina-gomez-araque-bb937621a/">Lina Gómez Araque</a>. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: <em>Sistema Adaptable para la Detección Automática de Transacciones Fraudulentas en Plataformas Digitales</em>. September 2024.</li>
+<li><a href="https://www.linkedin.com/in/laura-zapata-prada?originalSubdomain=co">Laura Zapata Prada</a>. MSc in Industrial Engineering, Universidad del Norte, Barranquilla (with <a href="https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co">Carlos Paternina-Arboleda</a>). Thesis: <em>Asignación de Recursos para la Distribución de Vacunas vía Machine Learning: Caso Aplicado Barranquilla</em>. December 2023.</li>
+<li>Luedis Duarte Barboza. MSc in Applied Statistics, Universidad del Norte, Barranquilla (with <a href="https://www.linkedin.com/in/lorenleyn-de-la-hoz-alford-767b96282/?originalSubdomain=co">Lorenleyn De La Hoz Alford</a>). Thesis: <em>Identificación de Variables Determinantes del Comportamiento Mecánico de Espumas de Poliuretano de Origen Natural</em>. July 2022.</li>
+<li><a href="https://www.linkedin.com/in/jesus-bautista-arevalo-medrano-51666968/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&amp;originalSubdomain=co">Jesús Arévalo Medrano</a>. MSc in Applied Statistics, Universidad del Norte, Barranquilla. Thesis: <em>Determinantes de la Categorización Superior o Muy Superior de las Instituciones Educativas: Caso Distrito de Barranquilla, año 2018</em>. July 2022.</li>
+<li><a href="https://co.linkedin.com/in/luiggisamper">Luiggi Samper Orozco</a>. MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-epidemiologia">Epidemiology</a>, Universidad del Norte, Barranquilla. Thesis: <em>Desarrollo de un Modelo de Genómica Predictiva basado en Machine Learning para la Estimación de la Edad de Inicio de la Enfermedad de Alzheimer: Implicaciones para el Caribe Colombiano</em>. September 2021. <strong>Cum Laude</strong> distinction.</li>
+<li>Elkin Rafael Torres Rivera, MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada">Applied Statistics</a>, Universidad del Norte, Barranquilla. Thesis: <em>Variabilidad Cognitiva en Pacientes con Esquizofrenia</em>. June 2021.</li>
+<li><a href="https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/">Carmen Quintero Arteaga</a>, MSc in <a href="https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial">Industrial Engineering</a>, Universidad del Norte, Barranquilla (with <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496">Rita Peña-baena Niebles</a>). Thesis: <em>Diseño Estadístico de una Carta de Control</em> <span class="math inline">\(\bar{X}\)</span> <em>Sintética Totalmente Adaptativa para Procesos Autocorrelacionados</em>. March 2021.</li>
+<li><a href="https://scholar.google.es/citations?hl=es&amp;user=XHxxCLMAAAAJ&amp;view_op=list_works">Diego A. Salazar</a>, MSc in <a href="https://ciencias.medellin.unal.edu.co/escuelas/estadistica/index.php/programas-academicos/maestria-en-ciencias-estadistica.html">Statistics</a>, National University of Colombia at Medellín (with <a href="https://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&amp;escuela=Escuela%20de%20Estad%C3%ADstica&amp;letra=&amp;correo=jcsalaza@unal.edu.co">Juan Carlos Salazar</a>). Thesis: <em>Comparación entre SVM y Regresión Logística: cuál es más recomendable para discriminar?</em>. August 2011.</li>
+</ol>
+<p>PhD</p>
+<ol type="1">
+<li><a href="https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140">Carlos M. Ferreira</a>. PhD in Industrial Engineering (with <a href="https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387">Guisselle García Llinás</a>). Thesis: <em>Design of A Framework For The Prediction of Road Accidents With Applications To Smart Cities</em>. March, 2025.</li>
+<li><a href="https://scholar.google.es/citations?user=BZj5Kn0AAAAJ&amp;hl=es">Maria Isabel Mosquera</a>. PhD in Biomedical Sciences (with <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000201685">Maria Del Pilar Garavito</a>). Thesis: <em>ARN no codificantes largos exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer</em>. December 2023.</li>
+<li><a href="https://scholar.google.com.co/citations?hl=en&amp;user=YckMDUUAAAAJ">Martha L. Cervantes</a>. PhD in Biomedical Sciences (with <a href="http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133">Pedro Puentes Rozo</a>). Thesis: <em>Variantes Genéticas Asociadas al Trastorno de Déficit de Atención e Hiperactividad en una Comunidad del Caribe Colombiano.</em> May 2022. <strong>Magna Cum Laude</strong> <a href="https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=24826754&amp;groupId=13400067">distinction</a>.</li>
+<li><a href="https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987">José Luis López-Prado</a>. PhD in Industrial Engineering (with <a href="https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387">Guisselle García Llinás</a>). Thesis: <em>Modeling of the Rural Distribution System with Applications to Micogrids to Evaluate Reliability.</em> March 2022.</li>
+<li><a href="https://scholar.google.com.co/citations?hl=en&amp;user=2xNl_ksAAAAJ">Johan Acosta López</a>. PhD in Psychology, Universidad Maimónides, Buenos Aires, Argentina (with <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133">Pedro Puentes Rozo</a> and <a href="https://scholar.google.com/citations?hl=es&amp;authuser=1&amp;user=0P6A6A8AAAAJ">David Pineda</a>). Thesis: <em>Procesamiento temporal y atención: Endofenotipos cognitivos en el Trastorno Por Déficit de Atención e Hiperactividad</em>. November 2017.</li>
+</ol>
 <p><br><br><br><br></p>
 <center>
 <hr>
 <center>
 <p>
-Copyright® 2025 <br> Webpage made with <img src="images/quarto.png" width="100px"> <br> <!-- Modified: March 26, 2025. -->
+Copyright® <code>r year</code> <br> Webpage made with <img src="images/quarto.png" width="100px"> <br> <!-- Modified: `r month` `r day`, `r year`. -->
 </p></center>
 <hr>
 <!-- Copyright® 2024. <br> Webpage made with [Quarto](https://quarto.org/) by [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/). -->
 <!-- <hr> -->
 
 
+</center></section>
 
-</center></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

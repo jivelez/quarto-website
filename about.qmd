@@ -2,298 +2,67 @@
 title: ""
 ---
 
-## About
-
-I am an Assistant Professor of Data Analytics and Genomics at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial?campaign=SKAGS%20%5BPregrado%5D%20-%20Ingenieria%20Industrial&adgroup=Ingenieria%20Industrial%20Universidad&headline1=Estudia%20Ingenier%C3%ADa%20Industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. 
-
-My research interests include bioinformatics, population genetics, genetic epidemiology, predictive genomics and Machine Learning applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). 
-
-I received a Ph.D. degree in [Medical Sciences](https://jcsmr.anu.edu.au/doctor-philosophy-phd) with emphasis in Genomics and Precision Medicine from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) in Canberra, ACT, Australia under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before going to Australia, I earned a BSc in Industrial Engineering and a MSc in Statistics from the [National University of Colombia](https://unal.edu.co/en.html), [Medellin](https://en.wikipedia.org/wiki/Medell%C3%ADn). I also conducted research on statistical genetics and bioinformatics at [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch), National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)), National Institutes of Health, Bethesda, MD, under the supervision of [Max Muenke](https://www.linkedin.com/in/maximilian-max-muenke-138932198) and Mauricio Arcos-Burgos.
-
-I have  more than 15 years of experience in the development and/or application of statistical and analytical methods (i.e., inference, simulation, modelling, and graphical representation) to genetic, industrial, demographic, and financial data, and in the development of new methodologies to analyse it and represent it. I also have strong bases and knowledge in engineering, genetics (including statistical, population and quantitative genetics, and genetic epidemiology), statistical computing, as well as an in-deep understanding of the computational, mathematical, and statistical theories and methodologies involved. Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia, USA and Australia.
-
-Since 2020, I have been working on the identification of common functional genetic variants that modify the age of onset of ADHD in individuals with sporadic AD, as well as variants that confer susceptibility to ADHD, AID and Huntington's disease in individuals from the Colombian Caribbean region.
-
-Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co).  You can find my CV <a href="https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing" target="_blank"> here</a>.
-
-## Publications
-
-As of August 2022, I have coauthored **85 ISI/SCOPUS research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en),  [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2006-2021), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13),  [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is 
-<a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here </a>.
-
-
-### Research Papers
-
-#### 2022
-
-1. Ferreira-Vanegas, C.M.; **Vélez, J.I.**; García-Llinás, G.A. Analytical Methods and Determinants of Frequency and Severity of Road Accidents: A 20-Year Systematic Literature Review. [Journal of Advanced Transportation](https://www.hindawi.com/journals/jat/2022/7239464/), vol. 2022, Article ID 7239464, 17 pages. 
-
-1. López-Rivera, J.J.; Rodríguez-Salazar, L.; Soto-Ospina, A.; Estrada-Serrato, C.; Serrano, D.; Chaparro-Solano, H.M.; Londoño, O.; Rueda, P.A.; Ardila, G.; Villegas-Lanau, A.; Godoy-Corredor, M.; Cuartas, M.; **Vélez, J.I.**; Vidal, O.M.; Isaza-Ruget, M.A.; Arcos-Burgos, M. Structural Protein Effects Underpinning Cognitive Developmental Delay of the *PURA* p.Phe233del Mutation Modelled by Artificial Intelligence and the Hybrid Quantum Mechanics–Molecular Mechanics Framework. [Brain Sciences](https://www.mdpi.com/2076-3425/12/7/871), 12(7), 871.
-
-
-1. López-Prado, J. L; González-Sánchez, J. W.;  **Vélez, J. I.**, Garcia-Llinás, G. A. (2022). Reliability Assessment in Rural Distribution Systems with Microgrids: A Computational-based Approach. [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9755132/), vol. 10, pp. 43327-43340.
-
-1. Aguillon, D.; Vásquez, D.;  Madrigal, L.; Moreno, S.; Hernández, D.; Isaza-Ruget, M.; López, J. J.;  Landires, I.;  Nuñez-Samudio, V.; Restrepo, C. M.; Vidal, O. M.; **Vélez, J. I.**; Arcos-Holzinger, M.; Lopera, F.; Arcos-Burgos, M. (2022). Ataxia with Ocular Apraxia type 1 (AOA1) (APTX; W279* mutation): Neurological, Neuropsychological, and Molecular Outlining of a Heterogenous Phenotype in Four Colombian Siblings. [Molecular Neurobiology](https://link.springer.com/article/10.1007/s12035-022-02821-7), 59, pp. 3845–3858.
-
-1. Quintero-Arteaga, C.; Peñabaena-Niebles, P.; **Vélez, J. I.**; Jubiz-Diaz, M. (2022). Statistical design of an adaptive synthetic $\bar{X}$ control chart for autocorrelated processes. [Quality and Reliability Engineering International](http://doi.org/10.1002/qre.3086).
-
-1. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. (2022). Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype? (2022). [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), S0165-0327(21)01121-6. 
-
-#### 2021
-
-1. Acosta-López, J.E.; Suárez, I.; Pineda, D.A.; Cervantes-Henríquez, M.L.; Martínez-Banfi, M.L.; Lozano-Gutiérrez, S.G.; Ahmad, M.; Pineda-Alhucema, W.; Noguera-Machacón, L.M.; De La Hoz, M.; Mejía-Segura, E.; Jiménez-Figueroa, G.; Sánchez-Rojas, M.; Mastronardi, C.A.; Arcos-Burgos, M.; **Vélez, J.I.**; Puentes-Rozo, P.J. Impulsive and Omission Errors: Potential Temporal Processing Endophenotypes in ADHD. [Brain Sciences](https://www.mdpi.com/2076-3425/11/9/1218). 11(9), 1218, 2021.
-
-1.	Mosquera-Heredia, M.I.; Morales, L.C.; Vidal, O.M.; Barceló, E.; Silvera-Redondo, C.; **Vélez, J.I.**; Garavito-Galofre, P. Exosomes: Potential Disease Biomarkers and New Therapeutic Targets. [Biomedicines](https://www.mdpi.com/2227-9059/9/8/1061),  9, 1061, 2021.
-
-2.	Martinez-Banfi, M., **Vélez, J.I.**, Mebarak Chams, M.R., Arcos-Holzinger, M., Acosta-López, J.E., García, R., Perea, M.V., Arcos-Burgos, M., Ladera, V. Utility of a Short Neuropsychological Protocol for Detecting HIV-Associated Neurocognitive Disorders in Patients with Asymptomatic HIV-1 Infection. [Brain Sciences](https://www.mdpi.com/2076-3425/11/8/1037),  11(8), 1037, 2021.
-
-3. Machado-Domínguez, L.F., Paternina-Arboleda, C.D., **Vélez, J.I.**, Barrios-Sarmiento, A. A memetic algorithm to address the multi-node resource-constrained project scheduling problem. [J Sched](https://link.springer.com/article/10.1007/s10951-021-00696-5) 24, 413–429, 2021.
-
-4.	Sebastian Racedo, Ivan Portnoy, **Jorge I. Vélez**, Homero San-Juan-Vergara, Marco Sanjuan, Eduardo Zurek. A new pipeline for structural characterization and classification of RNA-Seq microbiome data, [BioData Mining](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-021-00266-7), 14 (31), 2021.  
-
-5.	M.L. Cervantes-Henriquez, J.E. Acosta-López, M. Ahmad, M. Sánchez-Rojas, G. Jiménez-Figueroa, W. Pineda-Alhucema, M.L. Martinez-Banfi, L.M. Noguera-Machacón, E. Mejía-Segura, M. De La Hoz, M. Arcos-Holzinger, D.A. Pineda, P.J. Puentes-Rozo, M. Arcos-Burgos, **J.I. Vélez**. _ADGRL3_, _FGF1_ and _DRD4_: Linkage and Association to Working Memory and Perceptual Organization Endophenotypes in ADHD. [Brain Sciences](https://www.mdpi.com/2076-3425/11/7/854), 11(7), 854, 2021. 
-
-6.	Luis F. Machado-Domínguez, Carlos D. Paternina-Arboleda, **J.I. Vélez**, Agustín Barrios-Sarmiento. An adaptative bacterial foraging optimization algorithm for solving the MRCPSP with discounted cash flows, [TOP](https://link.springer.com/article/10.1007/s11750-021-00612-2), 2021. 
-
-7.	Martha L. Cervantes-Henríquez, Johan E. Acosta-López, Ariel F. Martinez, Mauricio Arcos-Burgos, Pedro J. Puentes-Rozo, **Jorge I. Vélez.** Machine Learning Prediction of ADHD Severity: Association and Linkage to _ADGRL3_, _DRD4_, and _SNAP25_. [J Atten Disord](https://journals.sagepub.com/doi/abs/10.1177/10870547211015426), 2021.
-
-8.	**Vélez JI**, Samper LA, Arcos-Holzinger M, Espinosa LG, Isaza-Ruget MA, Lopera F, Arcos-Burgos M. A Comprehensive Machine Learning Framework for the Exact Prediction of the Age of Onset in Familial and Sporadic Alzheimer’s Disease. [Diagnostics](https://www.mdpi.com/2075-4418/11/5/887). 11, 887, 2021.
-
-9.	**Vélez, J. I.**.  Machine Learning Psychology: Advocating for a Data-Driven Approach. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/5365), 14(1), 6–11.
-
-
-
-#### 2020
-
-1.	Diego Sepulveda-Falla, Lucia Chavez-Gutierrez, Erik Portelius, **Jorge I. Vélez**, Simon Dujardin, et al. A multifactorial model of pathology for age of onset heterogeneity in familial Alzheimer's disease. [Acta Neuropathologica](https://link.springer.com/article/10.1007/s00401-020-02249-0), 141, pp. 217-33. 
-
-2.	Jose L. López-Prado, **Jorge I. Vélez**, Guisselle A. García-Llinás Reliability Evaluation in Distribution Networks with Microgrids: Review and Classification of the Literature. [Energies](https://www.mdpi.com/1996-1073/13/23/6189) 23 (13), pp. 1-31.
-
-3.	Maria Camila Navarro, Fernando Marmolejo-Ramos, Valentina Vásquez, Bárbara Carrea, **Jorge I. Vélez**, Moisés Mebarak Chams. An Exploratory Study for Assessment of Multimodal Semantic Memory in Colombian Children. [Intern J of Psych Research](https://revistas.usb.edu.co/index.php/IJPR/article/view/4847), 13 (2), pp. 49-58.
-
-4.	Marcela Henriquez-Henriquez, Maria T. Acosta, Ariel F. Martinez, **Jorge I. Vélez**, Francisco Lopera, David Pineda, Juan D. Palacio, Teresa Quiroga, Tilla S. Worgall, Richard J. Deckelbaum, Claudio Mastronardi, Brooke S. G. Molina, the MTA Cooperative Group, Mauricio Arcos-Burgos, Maximilian Muenke. Mutations in sphingolipid metabolism genes are associated with ADHD. [Translational Psychiatry](https://www.nature.com/articles/s41398-020-00881-8), 2020.
-
-5.	Oscar M. Vidal, Jorge Acosta-Reyes, Jesús Padilla, Edgar Navarro-Lechuga, Elsa Bravo, Diego Viasus, Mauricio Arcos-Burgos, **Jorge I. Vélez**. Chikungunya outbreak (2015) in the Colombian Caribbean: Latent classes and gender differences in virus infection. [PLoS Neglected Tropical Diseases](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008281), 2020.  
-
-6.	Isabel Suarez, Carlos De Los Reyes Aragón, Elisa Díaz, Tania Iglesias, Ernesto Barceló, **Jorge I. Vélez**, Laurence Casini. How is Temporal Processing Affected in Children with Attention-deficit/Hyperactivity Disorder?. [Developmental Neuropsychology](https://www.tandfonline.com/doi/abs/10.1080/87565641.2020.1764566?journalCode=hdvn20) 2020, pp. 1-16. 
-
-7. Landires, I.; Núñez-Samudio, V.; Fernandez, J.; Sarria, C.; Villareal, V.; Córdoba, F.; Apráez-Ippolito, G.; Martínez, S.; Vidal, O.M.; **Vélez, J.I.**; Arcos-Holzinger, M.; Landires, S.; Arcos-Burgos, M. Calpainopathy: Description of a Novel Mutation and Clinical Presentation with Early Severe Contractures. [Genes](https://www.mdpi.com/2073-4425/11/2/129), 2020, 11, 129.
-
-#### 2019
-
-1.	**Vélez JI**, Lopera F, Silva CT, Villegas A, Espinosa LG, Vidal OM, Mastronardi CA, Arcos-Burgos M. Familial Alzheimer's Disease and Recessive Modifiers. [Mol Neurobiol](https://link.springer.com/article/10.1007%2Fs12035-019-01798-0). 2019 Oct 29. doi: 10.1007/s12035-019-01798-0. 
-
-2.	Mebarak Chams M, Tinoco L, Mejia-Rodriguez D, Martinez-Banfi ML, Preuss H, Hammerle F, **Vélez JI**, Kolar DR. The Spanish Body Image State Scale: Factor Structure, Reliability and Validity in a Colombian Population. [Front Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02553/full). 2019 Nov 22,10:2553.  
-
-3.	Pedro J. Puentes-Rozo, Johan E. Acosta-López, Martha L. Cervantes-Henríquez, Martha L. Martínez-Banfi, Elsy Mejia-Segura, Manuel Sánchez-Rojas, Marco E. Anaya-Romero, Antonio Acosta-Hoyos, Guisselle A. García-Llinás, Claudio A. Mastronardi, David A. Pineda, F. Xavier Castellanos, Mauricio Arcos-Burgos, **Jorge I. Vélez**. Genetic Variation Underpinning ADHD Risk in a Caribbean Community. [Cells](https://www.mdpi.com/2073-4409/8/8/907) 8(8), 2019.
-
-4.	Mauricio Arcos-Burgos, **Jorge I. Vélez**, Ariel F. Martinez, Marta Ribasés, et al.: _ADGRL3_ (_LPHN3_) variants predict substance use disorder. [Translational Psychiatry](https://www.nature.com/articles/s41398-019-0396-7) 9(1), Jan, 2019 , pp. 42. 
-
-#### 2018
-
-1.	Pineda-Alhucema, W., Aristizabal, E., Escudero-Cabarcas, J, Acosta-López JE, **Vélez JI**: Executive Function and Theory of Mind in Children with ADHD: A Systematic Review. [Neuropsychol Rev](https://link.springer.com/article/10.1007/s11065-018-9381-9) 2018 Aug.
-
-2.	**Jorge I. Vélez**, Francisco Lopera, Penelope K. Creagh, Laura B. Piñeros, et al.: Targeting Neuroplasticity, Cardiovascular, and Cognitive-Associated Genomic Variants in Familial Alzheimer’s Disease. [Molecular Neurobiology](https://link.springer.com/article/10.1007/s12035-018-1298-z) 2018 Aug pp 1-9.
-
-3.	Cervantes-Henríquez ML, Acosta-López JE, Martínez-Banfi ML, **Vélez JI**, Mejía-Segura E, Lozano-Gutiérrez SG, et al: ADHD Endophenotypes in Caribbean Families. [J Atten Disord.](https://journals.sagepub.com/doi/abs/10.1177/1087054718763741) 2018 Mar 1:1087054718763741.
-
-4.	San-Juan-Vergara H, Zurek E, Ajami NJ, Mogollon C, Peña M, Portnoy I, **Vélez JI**, Cadena-Cruz C, et al. A Lachnospiraceae-dominated bacterial signature in the fecal microbiota of HIV-infected individuals from Colombia, South America. [Sci Rep.](https://www.nature.com/articles/s41598-018-22629-7) 2018 Mar 14,8(1):4479. 
-
-5.	Trejos-Herrera AM, Bahamón MJ, Alarcón-Vásquez Y, **Vélez JI**, Vinaccia S. Validity and Reliability of the Multidimensional Scale of Perceived Social Support in Colombian Adolescents. [Psychosocial Intervention](http://scielo.isciii.es/scielo.php?pid=S1132-05592018000100056&script=sci_abstract&tlng=en), 2018, Vol. 27 Issue 1, p56-63.
-
-6.	Martínez-Banfi M, **Vélez JI**, Perea MV, García R, Puentes-Rozo PJ, Mebarak Chams M, Ladera V. Neuropsychological performance in patients with asymptomatic HIV-1 infection. [AIDS Care](https://www.tandfonline.com/doi/abs/10.1080/09540121.2018.1428728?journalCode=caic20). 2018 May,30(5):623-633. 
-
-#### 2017
-
-1.	Fernando Marmolejo-Ramos, Carlos Tirado, Edward Arshamian, **Jorge I. Vélez**, Artin Arshamian. The allocation of valenced concepts onto 3D space, [Cognition and Emotion](https://www.tandfonline.com/doi/abs/10.1080/02699931.2017.1344121?journalCode=pcem20), 2017, pp. 1-10.
-
-2.	**Vélez, JI** & Marmolejo-Ramos, F. Extension of a graphical diagnostic test for contingency tables. [Chilean Journal of Statistics](http://soche.cl/chjs/volumes/08/01/Velez_Marmolejo-Ramos(2017).pdf), 2017 8(1), 53-65. 
-
-3.	Andrews SJ, Eramudugolla R, **Vélez JI**, Cherbuin N, Easteal S, Anstey KJ. Validating the role of the Australian National University Alzheimer's Disease Risk Index (ANU-ADRI) and a genetic risk score in progression to cognitive impairment in a population-based cohort of older adults followed for 12 years. [Alzheimers Res Ther](https://alzres.biomedcentral.com/articles/10.1186/s13195-017-0240-3). 2017 Mar 4,9(1):16. doi: 10.1186/s13195-017-0240-3.
-
-4.	G Jiménez-Figueroa, C Ardila-Duarte, DA Pineda, JE Acosta-López, ML Cervantes-Henríquez, W Pineda-Alhucema, J Cervantes-Gutiérrez, M Quintero-Ibarra, M Sánchez-Rojas, **JI Vélez**, PJ Puentes-Rozo. Prepotent response inhibition and reaction times in children with attention deficit/hyperactivity disorder from a Caribbean community. [Atten Defic Hyperact Disord](https://link.springer.com/article/10.1007%2Fs12402-017-0223-z). 2017 Feb 25.
-
-#### 2016
-
-1.	Wong ML, Arcos-Burgos M, Liu S, **Vélez JI**, Yu C, Baune BT, Jawahar MC, Arolt V, Dannlowski U, Chuah A, Huttley GA, Fogarty R, Lewis MD, Bornstein SR, Licinio J. The PHF21B gene is associated with major depression and modulates the stress response. [Mol Psychiatry](https://www.nature.com/articles/mp2016174), 2016 Oct 25. 
-
-2.	**Vélez JI**, Lopera F, Patel HR, Johar AS, et al. Mutations modifying sporadic Alzheimer's disease age of onset. [Am J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32493). 2016 Aug 30. 
-
-3.	Das D, **Vélez JI**, Acosta MT, Muenke M, Arcos-Burgos M, Easteal S. Retrospective assessment of childhood ADHD symptoms for diagnosis in adults: validity of a short 8-item version of the Wender-Utah Rating Scale. [Atten Defic Hyperact Disord](https://link.springer.com/article/10.1007%2Fs12402-016-0202-9), 2016 Aug 10. 
-
-4.	CA Mastronardi, E Pillai, DA Pineda, AF Martinez, F Lopera, **Vélez JI**, JD Palacio et al.: Linkage and association analysis of ADHD endophenotypes in extended and multigenerational pedigrees from a genetic isolate, [Molecular Psychiatry](https://www.nature.com/articles/mp2015172), 2016, 21, pp. 1434–1440.
-
-5.	Johar A, Sarmiento-Monroy JC, Rojas-Villarraga A, Silva-Lara MF, Patel HR, Mantilla RD, **Vélez JI**, Schulte KM, Mastronardi C, Arcos-Burgos M, Anaya JM. Definition of mutations in polyautoimmunity. [J Autoimmun](https://www.sciencedirect.com/science/article/abs/pii/S0896841116300543?via%3Dihub). 2016 Aug,72:65-72.
-
-6.	**Vélez JI**, F Lopera, D Sepulveda-Falla, HR Patel, AS Johar, et al.: _APOE_$*$_E2_ Allele Delays Age of Onset in _PSEN1_ E280A Alzheimer’s Disease.  [Molecular Psychiatry](https://www.nature.com/articles/mp2015177), Jul, 21(7):916-24.
-
-7.	**Vélez JI**, D Rivera, CA Mastronardi, HR Patel, C Tobón, et al.: A mutation in DAOA modifies the Age-of-Onset in _PSEN1_ E280A Alzheimer's disease, [Neural Plasticity](https://www.hindawi.com/journals/np/2016/9760314/), 2016.
-
-8.	**JI Vélez**, F Marmolejo-Ramos and JC Correa: A graphical diagnostic test for two-way contingency tables, [Revista Colombiana de Estadística](https://revistas.unal.edu.co/index.php/estad/article/view/55142), 39(1), pp. 97-108.
-
-9. **JI Vélez**, F Marmolejo-Ramos: Los Secretos de Cien Años de Soledad: Una Aproximación Estilométrica para la Investigación en Psicolingüística [The Secrets of One Hundred Years of Solitude: A Stylometric Approach for Psycholinguistic Research], [Revista Colombiana de Psicología](https://revistas.unal.edu.co/index.php/psicologia/article/view/50742/56776), 2016, 25(2), 265-288.
-
-
-#### 2015
-
-1.	F Marmolejo-Ramos, **JI Vélez**, X Rom\~ao: Automatic detection of discordant outliers via the Ueda's method, [Journal of Statistical Distributions and Applications](https://jsdajournal.springeropen.com/articles/10.1186/s40488-015-0031-y), 2015 Oct 2(8): pp. 1-14.
-
-2.	**JI Vélez**, JC Correa & F Marmolejo-Ramos: A new approach to the Box-Cox transformation. [Frontiers in Applied Mathematics and Statistics](https://www.frontiersin.org/articles/10.3389/fams.2015.00012/full), Article 12, October 30, 2015.
-
-3.	Angad S. Johar, Claudio Mastronardi, Adriana Rojas-Villarraga, Hardip R. Patel, Aaron Chuah, Kaiman Peng, Angela Higgins, Peter Milburn, Stephanie Palmer, Maria Fernanda Silva, **JI Vélez**, Dan Andrews, et al.: Novel and Rare Functional Genomic Variants in Multiple Autoimmune Syndrome and Sjögren's syndrome. [Journal of Translational Medicine](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-015-0525-x), 2015 Jun 2,13:173.
-
-4.	**JI Vélez**, JC Correa: A modified Q-Q plot for large sample sizes, [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/1441), 8 (2), pp. 163-172.
-
-5.	**JI Vélez**, JC Correa: Bootstrap-based parameter estimation for grouped data, [Revista Facultad de Ciencias](https://revistas.unal.edu.co/index.php/rfc/article/view/54254), 4 (2), pp. 74-82, 2015.
-
-
-6.	**Jorge I. Vélez**, Cameron A. Jack, Aaron Chuah, Bob Buckley, Juan C. Correa, Simon Easteal and Mauricio Arcos-Burgos:  Cross validation of pooling/resampling GWAS using the WTCCC data. [Molecular Biology and Genetic Engineering](https://www.hoajonline.com/molbiolgeneteng/2053-5767/3/1), 2015, 3, Article 1.
-
-7. D González-Gómez, **JI Vélez**, JC Correa: Comparación de 13 intervalos de confianza para los parametros de la distribución multinomial [Comparison of 13 confidence intervals for the parameters of the multinomial distribition], [Revista Facultad de Ciencias](https://revistas.unal.edu.co/index.php/rfc/article/view/51911/54891), 4 (2), 150-163, 2015.
-
-
-#### 2014
-
-1.	**Jorge I. Vélez**, Juan Carlos Correa and Mauricio Arcos-Burgos: A new method for detecting significant p-values with applications to genetic data. [Revista Colombiana de Estadística](https://revistas.unal.edu.co/index.php/estad/article/view/44358), 37(1), pp. 69-78. 
-
-2.	**Jorge I. Vélez** and Juan Carlos Correa: Should we think of a different median estimator?. [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/1138), 2014,7(1):11-17.
-
-3. **Vélez, J. I.**, Correa, J. C. Estimación bayesiana del parámetro de la distribución Poisson censurada sin ceros [Bayesian estimation of the non-zero censored poisson distribution parameter], [Cuadernos de Estadística Aplicada](https://docplayer.es/60637104-Estimacion-bayesiana-del-parametro-de-la-distribucion-poisson-censurada-sin-ceros.html), 2014, 1 (1), 1-9. 
-
-4.	Correa, J.C., **Vélez, J. I.**. Una nota de cuidado sobre el efecto de datos parcialmente faltantes en la prueba de independencia $\chi^2$ [A cautionary note on the effect of partially-missing data in the $\chi^2$ test of independence], [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/1483), 2014, 7(2), 189-199. 
-
-#### 2013
-
-1.	Minig L, **Vélez JI**, Trimble EL, Biffi R, Maggioni A, Jeffery DD. Changes in short-term health-related quality of life in women undergoing gynecologic oncologic laparotomy: an associated factor analysis. [Support Care Cancer](https://link.springer.com/article/10.1007%2Fs00520-012-1571-z). 2013 Mar,21(3):715-26.
-
-2.	Walsh KS, **Vélez JI**, Kardel PG, Imas DM, Muenke M, Packer RJ, Castellanos FX, Acosta MT. Symptomatology of autism spectrum disorder in a population with neurofibromatosis type 1. [Dev Med Child Neurol](https://onlinelibrary.wiley.com/doi/10.1111/dmcn.12038). 2013 Feb,55(2):131-8.
-
-3.	**Jorge I. Vélez**, Settara C. Chandrasekharappa, et al.: Pooling/Bootstrap-based GWAS (pbGWAS) Identifies New Loci Modifying the Age of Onset in _PSEN1_ p.Glu280Ala Alzheimer’s Disease. [Molecular Psychiatry](https://www.nature.com/articles/mp201281), May 2013, 18, pp. 568–575.
-
-4.	**Jorge I. Vélez**, Juan Carlos Correa: Comparación de procedimientos FDR para la selección de parámetros en Regresión Poisson [Comparison of FDR-based procedures to select parameters in Poisson Regression] [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/6216), Junio 2013, Vol. 6, No 1. 
-
-
-5.	**Jorge I. Vélez**, Jairo A. Angel, Juan Carlos Correa: Cuantificación de variants genéticas utilizando Modelos Jerárquicos Bayesianos [Quantification of genetic variants using Bayesian Hierarchical Models] [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/1097), Junio 2013, Vol. 6, No 1. 
-
-6.	**Jorge I. Vélez**, Juan Carlos Correa:  Una prueba de independencia completa basada en la FDR [A test for complete independence based on FDR] Comunicaciones en Estadística, Diciembre 2013, Vol. 6, No 2. 
-
-#### 2012
-
-1.	Mauricio Arcos-Burgos, Ana C. Londoño, David A. Pineda, Francisco Lopera, Juan D. Palacio, Andres Arbelaez, Maria T. Acosta, **Jorge I. Vélez**, F. Xavier Castellanos, and Maximilian Muenke: Analysis of Brain Metabolism by Proton-Magnetic-Resonance-Spectroscopy ($^1$H-MRS) in Attention-Deficit/Hyperactivity Disorder Suggests a Generalized Differential Ontogenic Pattern from Controls. [Atten Defic Hyperact Disord](https://link.springer.com/article/10.1007%2Fs12402-012-0088-0). July 20, 2012.
-
-2.	Mauricio Camargo, Dora Rivera, Lina Moreno, Andrew C. Lidral, Ursula Harper, Marypat Jones, Benjamin D. Solomon, Erich Roessler, **Jorge I. Vélez**, Ariel F. Martinez, Settara C. Chandrasekharappa, and Mauricio Arcos-Burgos: GWAS Reveals New Recessive Loci Associated with Non-Syndromic Facial Clefting. [European Journal of Medical Genetics](https://www.sciencedirect.com/science/article/abs/pii/S1769721212001814?via%3Dihub), Oct 2012, 55(10), pp. 510-14.  
-
-3.	Mauricio Arcos-Burgos, **Jorge I. Vélez**, Benjamin D. Solomon, Maximilian Muenke: A Common Genetic Network Underlies Substance Use Disorders and Disruptive or Externalizing Disorders. [Human Genetics](https://link.springer.com/article/10.1007%2Fs00439-012-1164-4). Apr 2012, 131, pp. 917–929.
-
-4.	Diego A. Salazar, **Jorge I. Vélez**, Juan Carlos Salazar: Comparison between SVM and Logistic Regression: which one is better to discriminate?, [Revista Colombiana de Estadística](https://revistas.unal.edu.co/index.php/estad/article/view/30268), 2012, 35(2), pp. 223-237.
-
-5.	Erich Roessler, **Jorge I. Vélez**, Nan Zhou and Maximilian Muenke: Utilizing prospective sequence analysis of _SHH_, _ZIC2_, _SIX3_ and _TGIF_ in holoprosencephaly probands to describe the parameters limiting the observed frequency of mutant gene $\times$ gene interactions. [Molecular Genetics and Metabolism](https://www.sciencedirect.com/science/article/abs/pii/S1096719212000091?via%3Dihub). Jan 2012, 105(4), pp. 658-664.
-
-6.	**Jorge I. Vélez**, Juan Carlos Correa: Carta al Editor [Letter to the Editor] [Comunicaciones en Estadística](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/60), Junio 2012, Vol. 4, No. 2. 
-
-
-
-#### 2011
-
-1.	Pineda D.A., Lopera F., Puerta I.C., Trujillo-Orrego N., Aguirre-Acevedo, D.C., Hincapié-Henao L., Arango P., Acosta M.T., Martinez A.F., Holzinger S.I., Palacio J.D., Pineda-Alvarez D.E., **Vélez J.I.**, Lewis J.E., Muenke M., and Arcos-Burgos M.: Potential Cognitive Endophenotypes in Multigenerational Families: Segregating ADHD from a Genetic Isolate. [Atten Defic Hyperact Disord](https://link.springer.com/article/10.1007%2Fs12402-011-0061-3). Jul 2011, 3(291).
-
-2.	Maria T. Acosta, **Jorge I. Vélez**, M. Leonor Bustamante, Joan Z. Balog, Mauricio Arcos-Burgos, Maximilian Muenke: A Two-Locus Genetic Interaction between _LPHN3_ and 11q Predicts ADHD Severity and Long-Term Outcome. [Translational Psychiatry](https://www.nature.com/articles/tp201114) (2011) 1, e17.
-
-3.	Jain M, **Vélez JI**, Acosta MT, Palacio LG, Balog J, Roessler E, Pineda D, et al. A cooperative interaction between _LPHN3_ and 11q doubles the risk for ADHD. [Molecular Psychiatry](https://www.nature.com/articles/mp201159). May 2011, 17, pp. 741–747.
-
-
-#### 2010
-
-1.	Keaton A, Solomon BD, Kauvar EF, El-Jaick KB, Gropman AL, Zafer Y, Meck JM, Bale SJ, Grange DK, Haddad BR, Gowans GC, Clegg NJ, Delgado MR, Hahn JS, Pineda-Alvarez DE, Lacbawan F, **Vélez JI**, Roessler E, Muenke M.:  Mutations in _TGIF_ in human holoprosencephaly: correlation between genotype and phenotype. [Mol Syndromol](https://www.karger.com/Article/Fulltext/328203) 1:211-222, 2010.
-
-2.	Benjamin D. Solomon, Daniel E. Pineda-Alvarez, Manu S. Raam, Sophia M. Bous, Amelia Keaton, **Jorge I. Vélez**, Derek A.T. Cummings: VACTERL Association: Analysis of Component Findings in 79 Patients. 
-[Am J Med Genet, Part A](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33572).  Aug 3, 2010, 152A:2236-2244. 
-
-3.	Minig L, Velazco A, Lamm M, **Vélez JI**, Venturini NC, Testa R. Evaluation of laparoscopic management of gynecologic emergencies by residents. [Int J Gynaecol Obstet](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1016/j.ijgo.2010.05.006). 2010 Jun 24. 
-
-4.	Arcos-Burgos M., Jain M, Acosta MT, Shively S, Stanescu H, Wallis D, Domené S, **Vélez JI**, Karkera JP, et al.  A Common Variant of Latrophilin 3, _LPHN3_, Gene Confers Susceptibility to ADHD and Predicts Effectiveness of Stimulant Medication. [Molecular Psychiatry](https://www.nature.com/articles/mp20106), February 2010, 15, pp. 1053–1066.
-
-5.	Benjamin D. Solomon, Sandra Mercier, **Jorge I. Vélez**, Daniel E. Pineda-Alvarez, Sylvie Odent et al: Analysis of Genotype-Phenotype Correlations in Human Holoprosencephaly. [Am J Med Genet C Semin Med Genet](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.c.30240). 2010 Feb 15, 154C(1):133-41.
-
-6.	Solomon BD, Lacbawan F, Mercier S, Clegg NJ, Delgado MR, Rosenbaum K, Dubourg  C, David V, Olney AH, Wehner LE, Hehr U, Bale S, Paulussen A, Smeets HJ, Hardisty E, Tylki-Szymanska A, Pronicka E, Clemens M, McPherson E, Hennekam RC, Hahn J, Stashinko E, Levey E, Wieczorek D, Roeder E, Schell-Apacik CC, Booth CW, Thomas RL, Kenwrick S, Cummings DA, Bous SM, Keaton A, Balog JZ, Hadley D, Zhou N, Long  R, **Vélez JI**, Pineda-Alvarez DE, Odent S, Roessler E, Muenke M. Mutations in _ZIC2_  in human holoprosencephaly: description of a novel _ZIC2_ specific phenotype and comprehensive analysis of 157 individuals. [J Med Genet](https://jmg.bmj.com/content/47/8/513.long). Aug 2010,47(8):513-24. 
-
-7.	Yanjanin NM, **Vélez JI**, Gropman A, King K, et al.: Linear Clinical Progression, Independent of Age of Onset, in Niemann–Pick Disease, Type C. [Am J Med Genet B Neuropsytr Genet.](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.30969) 2010 Jan 5,153B(1):132-40.
-
-#### 2009
-
-1.	Maggioni A., Minig L., Zanagnolo V., Bocciolone L., Colombo N., Landoni F., Peiretti M., Sanguineti F., **Vélez J.I.**: Robotic Surgery for Cervical Cancer:  Comparison with Laparotomy. A case control study.  [Gynecol Oncol](https://linkinghub.elsevier.com/retrieve/pii/S0090-8258(09)00512-5). Oct 2009, 115(1): 60-4.
-
-2.	Erich Roessler, Kenia B. El-Jaick, Christèle Dubourg, **Jorge I. Vélez**, Benjamin D. Solomon, et al.: The mutational spectrum of holoprosencephaly-associated changes within the _SHH_ gene in humans predict loss-of-function through either key structural alterations of the ligand or its altered synthesis. [Hum Mutat](https://onlinelibrary.wiley.com/doi/10.1002/humu.21090). Oct 2009, 30(10): E921-35.
-
-3.	Erich Roessler, Wuhong Pei, Maia V. Ouspenskaia, Jayaprakash D. Karkera, **Jorge I. Vélez**, Sharmilla Banerjee-Basu, et al.: Cumulative ligand activity of NODAL mutations and modifiers are linked to human heart defects and holoprosencephaly.  [Mol Genet Metab](https://www.sciencedirect.com/science/article/abs/pii/S1096719209001383?via%3Dihub). 2009 Sep-Oct, 98(1-2):225-34. Epub 2009 May 27. 
-
-4.	Lacbawan, F., Solomon, B., Roessler, E., El-Jaick, K, Domené, S., **Vélez, J.I.**, Zhou, N., et al.: Clinical spectrum of SIX3-associated mutations in holoprosencephaly: correlation between genotype, phenotype and function. [J Med Genet](https://jmg.bmj.com/content/46/6/389.long) 46 (6): 389-98, 2009. [PubMed] 
-
-#### 2008
-
-1.	Domené S., Roessler E., El-Jaick K.B., Snir M., Brown J.L., **Vélez J.I.**, Bale S., Lacbawan F., Muenke M., Feldman B.: Mutations in the human SIX3 gene in holoprosencephaly are loss-of-function. [Hum. Mol. Genet.](https://academic.oup.com/hmg/article/17/24/3919/557812), 17, 24: 3919-3928, 2008.
-
-2.	Roessler E., Ouspenskaia M.V., Karkera J.D., **Vélez J.I.**, Kantipong A., Lacbawan F., Bowers P., et al.: Reduced NODAL signaling strength via mutation of several pathway members including FOXH1 is linked to human heart defects and holoprosencephaly. [Am. J. Hum. Genet.](https://pubmed.ncbi.nlm.nih.gov/18538293/) 83, 18-29, 2008. 
+<br>
+
+<center>
+<img src="images/avatar.png" width="27%"/>
+</center>
 
 <br>
 
+<!-- ![](https://www.uninorte.edu.co/documents/13969336/22078217/JORGE%20V%C3%89LEZ%20-%20%20INGENIERO%20INDUSTRIAL%20CO-DIRECTOR%20DE%20PROCAM.jpg){.border fig-align="center" width=60%} -->
 
-### Proceedings
+<center><font size="+1.8">**Jorge I. Vélez, PhD**</font> <br> <font size="+1.15">Assistant Professor</font><br> 
+<font size="+1.15">Department of Industrial Engineering</font><br> 
+<font size="+1.15">Universidad del Norte, Barranquilla</font><br></center><br>
 
-1. CM Ferreira-Venegas, **JI Vélez**, GA García-Llinás: Exogenous factors that determine the frequency of fatalities in road accidents in Colombian municipalities, Proceedings of the XXXI International Symposium in Statistics. Manizales, Colombia, August 29-September 2, 2022.
+<!-- <br> -->
 
-1.	J Licinio, M Arcos-Burgos, S Liu, **JI Vélez** et al. _PHF21B_ gene: Association with Major Depressive Disorder and Modulation of the Stress Response, Proceedings Australian and New Zealand Journal of Psychiatry, 51, pp. 105-105.
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia). My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
-2.	**Vélez, J.I.**, Correa, J.C.: Tasa de Falsos Positivos en Microarreglos [False Discovery Rate in Microarrays]. [Proceedings](https://www.inec.gob.pa/IASI/docs/announcements/documentos/MemoriasComunicaciones/5%20Velez_CorreaFalsosPositivos.pdf) of the VII Regional Colloquium in Statistics: Applied Statistics. Medellin, Colombia, July 20-23, 2010.  
+I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the  [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
 
-3.	Ángel-Guzmán, J., **Vélez, J.I.**, Correa, J.C.: Un test de diagnóstico de variable agregada para Regresión Poisson [An added variable diagnostic test in Poisson Regression].  Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, July 16-20, 2009. 
+Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer).  This initiative is dedicated to unraveling the genetic landscape associated to AD susceptibility, age of onset, and disease progression in individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department).
 
-4.	**Vélez, J.I.**, Correa, J.C.: Some problems with Principal Component Analysis when the number of variables is greater than the number of observations.  Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, Colombia, July 16-20, 2009.
-
-5.	Araújo, L., Ángel, J., **Vélez, J.I.**: Estimation of the Proportion of Defective Product and Inspection Plans in Assembly Processes.  Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business, Cartagena, Colombia, August 11-15, 2008.
-
-6.	**Vélez, J.I.**, Correa J.C.: Comparison of t, Bonferroni and FDR procedures to select linear correlation    coefficients.  Proceedings of the XVIII Statistics Symposium: Statistics in Industry and Business. Cartagena, Colombia, August 11-15, 2008.
-
-7.	**Vélez, J.I.**, Hernández-Barajas F.: Comparison of Wald and Deviance statistics to include one variable in a Poisson Regression model.  Proceedings of the VI Regional Colloquium in Statistics and 6th CEAES Summer School. National University of Colombia at Medellín and University EAFIT, Medellín, Colombia, July 23-25, 2008.
-
-8.	**Vélez, J.I.**, Correa J.C.: Estimation of time of firing in the process of polyurethane injection of Industrias HACEB S.A. Proceedings of the XVII Symposium in Statistics and 3rd Binational Meeting Colombia-Venezuela. Bucaramanga, Colombia. July 30-August 3, 2006.
-
-9.	**Vélez, J.I.** Reduction of inspection levels to verify one continue variable in an assembly process. Proceedings of the 3rd Regional Colloquium in Statistics, National University of Colombia at Medellín, 2005.
+Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>.
 
 
-## Students
+```{r echo=FALSE, message=FALSE}
+## options
+options(warn = -1)
 
-#### Current students
+## load the scholar package
+if(!require(scholar)) install.packages('scholar')
+suppressPackageStartupMessages(library(scholar))
 
-*  [Laura Zapata Prada](https://www.linkedin.com/in/laura-zapata-prada?originalSubdomain=co). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co)) 
-*  Lilybeth Martinez Olivares. PhD student in Biomedical Sciences (with [Oscar Vidal Orjuela](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028550))
-<br> 
-* [Elsy Mejía Segura](https://scholar.google.com/citations?user=Ml5bixkAAAAJ&hl=es). PhD in Psychology with Orientation in Neurosciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133)). Universidad de Flores, Buenos Aires, Argentina.
-*  [Carlos M. Ferreira](https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
-<!-- *  [Daniela Cassandro De La Hoz](https://co.linkedin.com/in/daniela-cassandro-de-la-hoz-490b82b1). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co)) -->
-<!-- *  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ)) -->
+## find h_index
+id <- "GFxNB78AAAAJ&hl"
+cites <- scholar::get_publications(id)$cites
+h_index <- tail(which(cites >= seq_along(cites)), 1)
 
+## calculate citations
+citations <- sum(cites)
 
-#### Past students
+## date
+date <- Sys.time()
+month <- format(date,"%B")
+year <- format(date,"%Y")
+day <- as.numeric(format(date,"%d"))
+```
 
-1.  Luedis Duarte Barboza. MSc student in Applied Statistics (with [Lorenleyn De La Hoz Alford](https://www.escavador.com/sobre/12240857/lorenleyn-de-la-hoz-alford)). Thesis: *Identificación de Variables Determinantes del Comportamiento Mecánico de Espumas de Poliuretano de Origen Natural*. July 2022.
-2.  [Jesús Arévalo Medrano](https://www.linkedin.com/in/jesus-bautista-arevalo-medrano-51666968/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc student in Applied Statistics. Thesis: *Determinantes de la Categorización Superior o Muy Superior de las Instituciones Educativas: Caso Distrito de Barranquilla, año 2018*. July 2022.
-3. [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia). Thesis: _Desarrollo de un Modelo de Genómica Predictiva basado en Machine Learning para la Estimación de la Edad de Inicio de la Enfermedad de Alzheimer: Implicaciones para el Caribe Colombiano_.  September 2021. **Cum Laude** distinction.
-4.  Elkin Rafael Torres Rivera, MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada). Thesis: _Variabilidad Cognitiva en Pacientes con Esquizofrenia_. June 2021. 
-5.  [Carmen Quintero Arteaga](https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/), MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial) (with [Rita Peña-baena Niebles](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496)). Thesis: _Diseño Estadístico de una Carta de Control $\bar{X}$ Sintética Totalmente Adaptativa para Procesos Autocorrelacionados_. March 2021.
-6. [Diego A. Salazar](https://scholar.google.es/citations?hl=es&user=XHxxCLMAAAAJ&view_op=list_works), MSc in [Statistics](https://ciencias.medellin.unal.edu.co/escuelas/estadistica/index.php/programas-academicos/maestria-en-ciencias-estadistica.html) (with [Juan Carlos Salazar](https://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Estad%C3%ADstica&letra=&correo=jcsalaza@unal.edu.co)). Thesis: *Comparación entre SVM y Regresión Logística: cuál es más recomendable para discriminar?*. August 2011.
-7. [Martha L. Cervantes](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000743534). PhD in Biomedical Sciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133)). Thesis: *Variantes Genéticas Asociadas al Trastorno de Déficit de Atención e Hiperactividad en una Comunidad del Caribe Colombiano.* May 2022.  **Magna Cum Laude** [distinction](https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=24826754&groupId=13400067).
-8.  [José Luis López-Prado](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987). PhD in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)). Thesis: *Modeling of the Rural Distribution System with Applications to Micogrids to Evaluate Reliability.* March 2022.
-9. [Johan Acosta López](https://scholar.google.com/citations?user=Uy4zfxcAAAAJ&hl=es). PhD in Psychology, Universidad Maimónides, Buenos Aires, Argentina (with [Pedro Puentes Rozo](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133) and [David Pineda](https://scholar.google.com/citations?hl=es&authuser=1&user=0P6A6A8AAAAJ)). Thesis: *Procesamiento temporal y atención: Endofenotipos cognitivos en el Trastorno Por Déficit de Atención e Hiperactividad*. November 2017.
-
-<br><br><br>
+<br><br><br><br>
 
 <center>
 
 <hr>
 
-Copyright ® 2022, webpage made with [RStudio](https://www.rstudio.com/) and [Quarto](https://quarto.org/).
+<center>
+  <p>Copyright® `r year` <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br>
+ <!-- Modified: `r month` `r day`, `r year`. -->
+</center>
 
 <hr>
 
-</center>
+<!-- Copyright® 2024. <br> Webpage made with [Quarto](https://quarto.org/) by [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/). -->
+
+<!-- <hr> -->

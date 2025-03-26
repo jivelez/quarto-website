@@ -1,0 +1,93 @@
+---
+title: "Students"
+---
+
+#### Current students
+
+MSc
+
+1.  [Kelly Carrascal Martínez](https://co.linkedin.com/in/kelly-johana-carrascal-martinez). MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla.
+1. Javier De Moya. MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) (with [Carlos De Oro](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20MATEMATICAS%20Y%20ESTADIST.&id_docente=DPTO.%20MATEMATICAS%20Y%20ESTADIST.%2028), Universidad del Norte, Barranquilla.
+1.  [Johanna Blanquicet Pereira](https://www.linkedin.com/in/johanna-blanquicet-pereira-b52b821b9/?originalSubdomain=co). MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
+1.  Jason Barrios Mosquera. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  Isabella Giraldo Gómez. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  Karen Gómez Durán. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  [David Lizcano Martínez](https://www.linkedin.com/in/david-lizcano-mart%C3%ADnez-1305b0294/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  [Claudia Rueda Londoño](https://www.linkedin.com/in/claudia-rueda-londo%C3%B1o-7845551a6/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
+3.  Gustavo Sánchez Guerrero. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+
+PhD
+
+1.  [Mauro González Sierra](https://www.linkedin.com/in/mauro-gonzalez-sierra/?originalSubdomain=co). PhD student in [Electric and Electronic Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-electrica-y-electronica) (with [Adriana Arango Manrique](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO&id_docente=DPTO.%20ING.%20ELECTRICA%20Y%20ELETRO%2016)), Universidad del Norte, Barranquilla.
+1.  [Luis Alberto Ávila](https://www.linkedin.com/in/luis-alberto-avila-lorduy-17a39762/?originalSubdomain=co). PhD candidate in [Civil Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-civil) (with [Vicente Mercado](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%2016)), Universidad del Norte, Barranquilla.
+2.  [Maria Isabel Arrieta](https://www.linkedin.com/in/maria-isabel-arrieta-escobar-40396291/?originalSubdomain=co). PhD candidate in [Industrial Engineering](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)), Universidad del Norte, Barranquilla.
+4.  Lilybeth Martinez Olivares. PhD candidate in [Biomedical Sciences](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) (with [Oscar Vidal Orjuela](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028550)), Universidad del Norte, Barranquilla. <!-- 2.  [Elsy Mejía Segura](https://scholar.google.com/citations?user=Ml5bixkAAAAJ&hl=es). PhD in Psychology with Orientation in Neurosciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133)). Universidad de Flores, Buenos Aires, Argentina. -->
+
+#### Previous students
+
+MSc
+
+1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app). MSc in Applied Statistics, Universidad del Norte, Barranquilla. Thesis: _Dinámica de los Servicios de Salud en Barranquilla: Un Estudio Integrado de Demanda, Accesibilidad y Duración de la Hospitalización_.  December 2024.
+1.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Lectura inteligente del consumo de Gas Natural Domiciliario mediante un Vision Language Model*. October 2024.
+1.  [Juliana Rivera Álvarez](https://www.linkedin.com/in/juliana-esther-rivera-alvarez-a7043a2a9/?originalSubdomain=co). MSc in [Civil Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-civil?utm_source=google&utm_medium=cpc&utm_campaign=posgrados_google_2024&gad_source=1&gclid=CjwKCAjw26KxBhBDEiwAu6KXt5U-0dQouOrK-QpLAx8GMBviPBfyb9WJv-wcujbUQsa7YbkXFqgKMhoClxMQAvD_BwE) (with [Carlos Arteta Torrents](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%201)), Universidad del Norte, Barranquilla. Thesis: *Optimization of Sampling Methodology for Seismic Exposure Modelling: Establishing Homogeneous Zones using Machine Learning*. September 2024.
+2.  [Alba Yamile Aponte Vargas](https://www.linkedin.com/in/alba-yamile-aponte-vargas-204a0517a/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Predicción de Transacciones en Bolsa de una Empresa de Generación para una Ventana Móvil de 7 Días*. September 2024.
+3.  [Daniel Bolívar Pimiento](https://danielbolivar-website.netlify.app/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *From Data to Diagnosis: mRNA Insights for Understanding Alzheimer's Disease in a Caribbean Population*. September 2024.
+4.  [Dariela Castro Polo](https://www.linkedin.com/in/dariela-margarita-castro-polo-/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Spatio-Temporal Analysis of Freight Flows and Rate Per Mile: A Case Study of U.S. Transportation Corridors*. September 2024.
+5.  [Edgard Navarro Peñaloza](https://www.linkedin.com/in/edgard-navarro-5662b41b9/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Sistema de Recomendación de Jugadores para Equipos de Fútbol de la Premier League basado en Machine Learning*. September 2024.
+6.  [Hillary Villarreal](https://www.linkedin.com/in/hillary-isabel-villarreal-de-hoyos-698169200/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Factores Psicosociales y su Influencia en la Eficiencia Organizacional: Un Enfoque basado en Machine Learning*. September 2024.
+8.  [Lina Gómez Araque](https://www.linkedin.com/in/lina-gomez-araque-bb937621a/). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Sistema Adaptable para la Detección Automática de Transacciones Fraudulentas en Plataformas Digitales*. September 2024.
+9.  [Laura Zapata Prada](https://www.linkedin.com/in/laura-zapata-prada?originalSubdomain=co). MSc in Industrial Engineering, Universidad del Norte, Barranquilla (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co)). Thesis: *Asignación de Recursos para la Distribución de Vacunas vía Machine Learning: Caso Aplicado Barranquilla*. December 2023.
+10. Luedis Duarte Barboza. MSc in Applied Statistics, Universidad del Norte, Barranquilla (with [Lorenleyn De La Hoz Alford](https://www.linkedin.com/in/lorenleyn-de-la-hoz-alford-767b96282/?originalSubdomain=co)). Thesis: *Identificación de Variables Determinantes del Comportamiento Mecánico de Espumas de Poliuretano de Origen Natural*. July 2022.
+11. [Jesús Arévalo Medrano](https://www.linkedin.com/in/jesus-bautista-arevalo-medrano-51666968/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=co). MSc in Applied Statistics, Universidad del Norte, Barranquilla. Thesis: *Determinantes de la Categorización Superior o Muy Superior de las Instituciones Educativas: Caso Distrito de Barranquilla, año 2018*. July 2022.
+12. [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia), Universidad del Norte, Barranquilla. Thesis: *Desarrollo de un Modelo de Genómica Predictiva basado en Machine Learning para la Estimación de la Edad de Inicio de la Enfermedad de Alzheimer: Implicaciones para el Caribe Colombiano*. September 2021. **Cum Laude** distinction.
+13. Elkin Rafael Torres Rivera, MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada), Universidad del Norte, Barranquilla. Thesis: *Variabilidad Cognitiva en Pacientes con Esquizofrenia*. June 2021.
+14. [Carmen Quintero Arteaga](https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/), MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial), Universidad del Norte, Barranquilla (with [Rita Peña-baena Niebles](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496)). Thesis: *Diseño Estadístico de una Carta de Control* $\bar{X}$ *Sintética Totalmente Adaptativa para Procesos Autocorrelacionados*. March 2021.
+15. [Diego A. Salazar](https://scholar.google.es/citations?hl=es&user=XHxxCLMAAAAJ&view_op=list_works), MSc in [Statistics](https://ciencias.medellin.unal.edu.co/escuelas/estadistica/index.php/programas-academicos/maestria-en-ciencias-estadistica.html), National University of Colombia at Medellín (with [Juan Carlos Salazar](https://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Estad%C3%ADstica&letra=&correo=jcsalaza@unal.edu.co)). Thesis: *Comparación entre SVM y Regresión Logística: cuál es más recomendable para discriminar?*. August 2011.
+
+PhD
+
+1.  [Carlos M. Ferreira](https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140). PhD in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)). Thesis: *Design of A Framework For The Prediction of Road Accidents With Applications To Smart Cities*. March, 2025.
+2.  [Maria Isabel Mosquera](https://scholar.google.es/citations?user=BZj5Kn0AAAAJ&hl=es). PhD in Biomedical Sciences (with [Maria Del Pilar Garavito](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000201685)). Thesis: *ARN no codificantes largos exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer*. December 2023.
+3.  [Martha L. Cervantes](https://scholar.google.com.co/citations?hl=en&user=YckMDUUAAAAJ). PhD in Biomedical Sciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133)). Thesis: *Variantes Genéticas Asociadas al Trastorno de Déficit de Atención e Hiperactividad en una Comunidad del Caribe Colombiano.* May 2022. **Magna Cum Laude** [distinction](https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=24826754&groupId=13400067).
+4.  [José Luis López-Prado](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987). PhD in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387)). Thesis: *Modeling of the Rural Distribution System with Applications to Micogrids to Evaluate Reliability.* March 2022.
+5.  [Johan Acosta López](https://scholar.google.com.co/citations?hl=en&user=2xNl_ksAAAAJ). PhD in Psychology, Universidad Maimónides, Buenos Aires, Argentina (with [Pedro Puentes Rozo](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133) and [David Pineda](https://scholar.google.com/citations?hl=es&authuser=1&user=0P6A6A8AAAAJ)). Thesis: *Procesamiento temporal y atención: Endofenotipos cognitivos en el Trastorno Por Déficit de Atención e Hiperactividad*. November 2017.
+
+
+```{r echo=FALSE, message=FALSE}
+## options
+options(warn = -1)
+
+## load the scholar package
+if(!require(scholar)) install.packages('scholar')
+suppressPackageStartupMessages(library(scholar))
+
+## find h_index
+id <- "GFxNB78AAAAJ&hl"
+cites <- scholar::get_publications(id)$cites
+h_index <- tail(which(cites >= seq_along(cites)), 1)
+
+## calculate citations
+citations <- sum(cites)
+
+## date
+date <- Sys.time()
+month <- format(date,"%B")
+year <- format(date,"%Y")
+day <- as.numeric(format(date,"%d"))
+```
+<br><br><br><br>
+
+<center>
+
+<hr>
+
+<center>
+  <p>Copyright® `r year` <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br>
+ <!-- Modified: `r month` `r day`, `r year`. -->
+</center>
+
+<hr>
+
+<!-- Copyright® 2024. <br> Webpage made with [Quarto](https://quarto.org/) by [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/). -->
+
+<!-- <hr> -->
