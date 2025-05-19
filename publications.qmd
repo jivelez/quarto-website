@@ -30,6 +30,7 @@ As of `r month` `r day`, `r year`, I have coauthored **96 ISI/SCOPUS research pa
 
 <!-- ### Research Papers -->
 
+1. Ernesto Barceló, María I. Mosquera-Heredia, Oscar M. Vidal, Daniel A. Bolívar, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Deficits of Alzheimer’s Disease Neuropsychological Architecture Correlate with Specific Exosomal mRNA Expression: Evidence of a Continuum?. To appear in _International Journal of Molecular Sciences_.
 
 1. Daniel A. Bolívar, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease. [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/25/22/12293). 25(22):12293.
 
