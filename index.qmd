@@ -38,7 +38,9 @@ I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precisio
 ```
 
 
-Since October 2022, I have been leading the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer), a research initiative dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department). This work aims to contribute to precision medicine approaches tailored to Latin American populations.
+I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer) since October 2022. This research initiative is dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department).
+
+<!--This work aims to contribute to precision medicine approaches tailored to Latin American populations. -->
 
 
 Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>.
