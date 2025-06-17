@@ -32,7 +32,7 @@ As of `r month` `r day`, `r year`, I have published 98 ISI/SCOPUS research paper
 
 <!-- ### Research Papers -->
 
-1. Arcos-Burgos M, Arcos-Holzinger M, Mastronardi C, Isaza-Ruget MA, **Vélez JI**, Lewis DP, Patel H, Lidbury BA. Neurodevelopment Genes Encoding Olduvai Domains Link Myalgic Encephalomyelitis to Neuropsychiatric Disorders. [Diagnostics](https://doi.org/10.3390/diagnostics15121542). 2025; 15(12):1542. 
+1. Arcos-Burgos M, Arcos-Holzinger M, Mastronardi C, Isaza-Ruget MA, **Vélez JI**, Lewis DP, Patel H, Lidbury BA. Neurodevelopment Genes Encoding Olduvai Domains Link Myalgic Encephalomyelitis to Neuropsychiatric Disorders. [Diagnostics](https://www.mdpi.com/2075-4418/15/12/1542). 2025; 15(12):1542. 
 
 1. Ernesto Barceló, María I. Mosquera-Heredia, Oscar M. Vidal, Daniel A. Bolívar, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Deficits of Alzheimer’s Disease Neuropsychological Architecture Correlate with Specific Exosomal mRNA Expression: Evidence of a Continuum?. [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/26/10/4897). 26(10), 4897.
 
