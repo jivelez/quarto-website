@@ -10,11 +10,11 @@ MSc
 1. Javier De Moya. MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) (with [Carlos De Oro](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20MATEMATICAS%20Y%20ESTADIST.&id_docente=DPTO.%20MATEMATICAS%20Y%20ESTADIST.%2028), Universidad del Norte, Barranquilla.
 1.  [Johanna Blanquicet Pereira](https://www.linkedin.com/in/johanna-blanquicet-pereira-b52b821b9/?originalSubdomain=co). MSc in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos), Universidad del Norte, Barranquilla.
 1.  Jason Barrios Mosquera. MSc in Data Analytics, Universidad del Norte, Barranquilla.
-1.  I[sabella Giraldo Gómez](https://www.linkedin.com/in/isabella-giraldo-gomez-1a9ab81b8/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
+1.  [Isabella Giraldo Gómez](https://www.linkedin.com/in/isabella-giraldo-gomez-1a9ab81b8/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
 1.  [Karen Gómez Durán](https://www.linkedin.com/in/karen-juliana-gomez-duran-792196126/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
 1.  [David Lizcano Martínez](https://www.linkedin.com/in/david-lizcano-mart%C3%ADnez-1305b0294/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
 1.  [Claudia Rueda Londoño](https://www.linkedin.com/in/claudia-rueda-londo%C3%B1o-7845551a6/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla.
-1.  Gustavo Sánchez Guerrero. MSc in Data Analytics, Universidad del Norte, Barranquilla.
+
 
 PhD
 
@@ -27,6 +27,7 @@ PhD
 
 MSc
 
+1.  Gustavo Sánchez Guerrero. MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: _Integration of clinical data and comorbidities for the segmentation of patients with Alzheimer's disease: Evidence from the Colombian Atlantic_. June 2025.
 1. [Jose Javier Mercado](https://jose-mercado-reyes.netlify.app). MSc in Applied Statistics, Universidad del Norte, Barranquilla. Thesis: _Dinámica de los Servicios de Salud en Barranquilla: Un Estudio Integrado de Demanda, Accesibilidad y Duración de la Hospitalización_.  December 2024.
 1.  [Kadir Ortega](https://www.linkedin.com/in/kadirortegaf/?originalSubdomain=co). MSc in Data Analytics, Universidad del Norte, Barranquilla. Thesis: *Lectura inteligente del consumo de Gas Natural Domiciliario mediante un Vision Language Model*. October 2024.
 1.  [Juliana Rivera Álvarez](https://www.linkedin.com/in/juliana-esther-rivera-alvarez-a7043a2a9/?originalSubdomain=co). MSc in [Civil Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-civil?utm_source=google&utm_medium=cpc&utm_campaign=posgrados_google_2024&gad_source=1&gclid=CjwKCAjw26KxBhBDEiwAu6KXt5U-0dQouOrK-QpLAx8GMBviPBfyb9WJv-wcujbUQsa7YbkXFqgKMhoClxMQAvD_BwE) (with [Carlos Arteta Torrents](https://guayacan02.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.&id_docente=DPTO.%20INGENIERIA%20CIVIL%20Y%20AMB.%201)), Universidad del Norte, Barranquilla. Thesis: *Optimization of Sampling Methodology for Seismic Exposure Modelling: Establishing Homogeneous Zones using Machine Learning*. September 2024.
