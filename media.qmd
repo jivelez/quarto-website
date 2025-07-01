@@ -66,9 +66,10 @@ day <- as.numeric(format(date,"%d"))
 <hr>
 
 <center>
-  <p>Copyright® `r year` <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br>
- <!-- Modified: `r month` `r day`, `r year`. -->
+  <p>Copyright© `r year` Jorge I. Vélez <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br> 
+ Last updated: `r month` `r day`, `r year`. <br> 
 </center>
+
 
 <hr>
 
