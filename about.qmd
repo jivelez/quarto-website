@@ -12,7 +12,7 @@ title: ""
 
 <!-- ![](https://www.uninorte.edu.co/documents/13969336/22078217/JORGE%20V%C3%89LEZ%20-%20%20INGENIERO%20INDUSTRIAL%20CO-DIRECTOR%20DE%20PROCAM.jpg){.border fig-align="center" width=60%} -->
 
-<center><font size="+1.8">**Jorge I. Vélez, PhD** </font> <br> <font size="+1.15">Assistant Professor</font><br> 
+<center><font size="+1.9">**Jorge I. Vélez, PhD** </font> <br> <font size="+1.15">Assistant Professor</font><br> 
 <font size="+1.15">Department of Industrial Engineering</font><br> 
 <font size="+1.15">Universidad del Norte, Barranquilla</font><br></center><br>
 
