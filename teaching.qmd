@@ -24,7 +24,9 @@ In addition, I have had the opportunity of teaching at the Department of Mathema
 
 My teaching philosophy centers on fostering analytical thinking, practical problem-solving, and interdisciplinary collaboration. 
 
-My courses are designed to equip students with both the theoretical foundations and hands-on skills necessary to address real-world challenges in engineering, data science, and biomedical research. Through a combination of lectures, case studies, and project-based learning, I strive to create an engaging and supportive environment where students can develop the competencies needed to excel in academia, industry, and research.
+My courses are designed to equip students with both the theoretical foundations and hands-on skills necessary to address real-world challenges in engineering, data science, and biomedical research. 
+
+<!-- Through a combination of lectures, case studies, and project-based learning, I strive to create an engaging and supportive environment where students can develop the competencies needed to excel in academia, industry, and research. -->
 
 
 
