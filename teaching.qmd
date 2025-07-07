@@ -4,7 +4,7 @@ title: "Teaching"
 
 Over the years, I have had the privilege of teaching a diverse range of courses that reflect my expertise in applied analytics, bioinformatics, population genetics, and Machine Learning. 
 
-As an Assistant Professor at the Department of Industrial Engineering, I have been in charge of the following courses at the undergraduate and graduate levels:
+At the Department of Industrial Engineering, I have been in charge of the following courses at the undergraduate and graduate levels:
 
 **Undergraduate courses**
 
@@ -16,7 +16,7 @@ As an Assistant Professor at the Department of Industrial Engineering, I have be
 * Design of Experiments
 * Computational Analytics
 
-In addition, I have had the opportunity of teaching at the Department of Mathematics and Statistics, and the Department of Medicine.  In those departments, I have offered the following graduate courses:
+In addition, I have had the opportunity of teaching at the Department of Mathematics and Statistics, and the Department of Medicine.  In those departments, I have offered the following graduate level courses:
 
 * Bioinformatics
 * Population Genetics
