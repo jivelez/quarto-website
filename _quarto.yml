@@ -11,8 +11,6 @@ website:
         text: "About"
       - href: students.qmd
         text: ""
-      - href: teaching.qmd
-        text: ""
       - href: awards.qmd
         text: ""
       - href: media.qmd
