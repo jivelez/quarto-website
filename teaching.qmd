@@ -8,12 +8,12 @@ At the Department of Industrial Engineering, I have been in charge of the follow
 
 **Undergraduate courses**
 
-* Data Analysis in Engineering II
-* Applied Data Analytics
+* Data Analysis in Engineering II (NRC2004, NRC2005)
+* Applied Data Analytics  (NRC2325)
 
 **Graduate courses**
 
-* Design of Experiments
+* Design of Experiments ([202530-NRC3540](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/EpNRWTZqBzxDre3B-8AZmbQB2X7f1q4GWuSMGp6LahZmYg?e=taWBDl))
 * Computational Analytics
 
 In addition, I have had the opportunity of teaching at the Department of Mathematics and Statistics, and the Department of Medicine.  In those departments, I have offered the following graduate level courses:
