@@ -4,27 +4,29 @@ title: "Teaching"
 
 Over the years, I have had the privilege of teaching a diverse range of courses that reflect my expertise in applied analytics, bioinformatics, population genetics, and Machine Learning. 
 
-At the Department of Industrial Engineering, I have been in charge of the following courses at the undergraduate and graduate levels:
+At the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) at Universidad del Norte, I have been in charge of the following courses at the undergraduate and graduate levels:
 
 **Undergraduate courses**
 
-* Data Analysis in Engineering II (NRC2004, NRC2005)
-* Applied Data Analytics  (NRC2325)
+* Data Analysis in Engineering II ([NRC2004](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/Eq7lQsc117tCoTtd00rvqHYBVUsUQAG1kXr-nsHM0xA1Cg?e=OqRgyf), [NRC2005](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/EjVk4va4VqlEin9lNKuYMFYBByCqOHLSo6yzH0D_He04HQ?e=8WYtq1
+))
+* Applied Data Analytics  ([NRC2325](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/EhX7T8D8GtRHpTfOqbfPkH0BT3DGWYEe2zt2CrvgDCKFfQ?e=0DDY0I))
 
 **Graduate courses**
 
-* Design of Experiments ([202530-NRC3540](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/EpNRWTZqBzxDre3B-8AZmbQB2X7f1q4GWuSMGp6LahZmYg?e=taWBDl))
+* Design of Experiments ([NRC3540](https://uninorte-my.sharepoint.com/:f:/g/personal/jvelezv_uninorte_edu_co1/EpNRWTZqBzxDre3B-8AZmbQB2X7f1q4GWuSMGp6LahZmYg?e=taWBDl))
 * Computational Analytics
 
-In addition, I have had the opportunity of teaching at the Department of Mathematics and Statistics, and the Department of Medicine.  In those departments, I have offered the following graduate level courses:
+I have also had the opportunity of teaching at the MSc program in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) of the [Department of Mathematics and Statistics](https://www.uninorte.edu.co/web/departamento-de-matematicas-y-estadistica), and the [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) programs in Biomedical Sciences of the [Department of Medicine](https://www.uninorte.edu.co/web/departamento-de-medicina) at Universidad del Norte the following graduate level courses:
 
 * Bioinformatics
 * Population Genetics
 * Advanced Statistics IV
 
+These courses are designed to equip students with both the theoretical foundations and hands-on skills necessary to address real-world challenges in engineering, data science, and biomedical research. 
+
 My teaching philosophy centers on fostering analytical thinking, practical problem-solving, and interdisciplinary collaboration. 
 
-My courses are designed to equip students with both the theoretical foundations and hands-on skills necessary to address real-world challenges in engineering, data science, and biomedical research. 
 
 <!-- Through a combination of lectures, case studies, and project-based learning, I strive to create an engaging and supportive environment where students can develop the competencies needed to excel in academia, industry, and research. -->
 
