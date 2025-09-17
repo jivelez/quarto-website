@@ -19,7 +19,7 @@ title: ""
 <!-- <br> -->
 
 
-I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/uvrzxj7eirj9ayd3dgyjb/consulta-CvLAC.pdf?rlkey=nzd0qtsoxrnrvuqovc2o7du84&dl=0" target="_blank"> Senior Researcher</a> of the Ministry of Science, Technology, and Innovation of Colombia ([MinCIENCIAS](https://minciencias.gov.co/)). 
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/eh6dbyburkllg5txshtps/consulta-CvLAC.png?rlkey=oqvf7luolvcf3q3l53o5tfqut&st=gbdu3vyn&dl=0" target="_blank"> Senior Researcher</a> of the Ministry of Science, Technology, and Innovation of Colombia ([MinCIENCIAS](https://minciencias.gov.co/)). 
 
 My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
@@ -44,7 +44,7 @@ I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precisio
 ```
 
 
-Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer).  This research initiative is dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department).
+Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer).  <!-- This research initiative is dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department). -->
 
 <!--This work aims to contribute to precision medicine approaches tailored to Latin American populations. -->
 
