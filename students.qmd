@@ -60,18 +60,6 @@ PhD
 ## options
 options(warn = -1)
 
-## load the scholar package
-if(!require(scholar)) install.packages('scholar')
-suppressPackageStartupMessages(library(scholar))
-
-## find h_index
-id <- "GFxNB78AAAAJ&hl"
-cites <- scholar::get_publications(id)$cites
-h_index <- tail(which(cites >= seq_along(cites)), 1)
-
-## calculate citations
-citations <- sum(cites)
-
 ## date
 date <- Sys.time()
 month <- format(date,"%B")

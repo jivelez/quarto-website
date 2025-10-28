@@ -18,7 +18,9 @@ title: ""
 
 <!-- <br> -->
 
-I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/uvrzxj7eirj9ayd3dgyjb/consulta-CvLAC.pdf?rlkey=nzd0qtsoxrnrvuqovc2o7du84&dl=0" target="_blank"> Senior Researcher</a> according to [MinCIENCIAS](https://minciencias.gov.co/). My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/uvrzxj7eirj9ayd3dgyjb/consulta-CvLAC.pdf?rlkey=nzd0qtsoxrnrvuqovc2o7du84&dl=0" target="_blank"> Senior Researcher</a> according to the Department of Science, Technology and Innovation of Colombia ([MinCIENCIAS](https://minciencias.gov.co/)). 
+
+My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
 I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the  [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
 
@@ -30,18 +32,6 @@ Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You c
 ```{r echo=FALSE, message=FALSE}
 ## options
 options(warn = -1)
-
-## load the scholar package
-if(!require(scholar)) install.packages('scholar')
-suppressPackageStartupMessages(library(scholar))
-
-## find h_index
-id <- "GFxNB78AAAAJ&hl"
-cites <- scholar::get_publications(id)$cites
-h_index <- tail(which(cites >= seq_along(cites)), 1)
-
-## calculate citations
-citations <- sum(cites)
 
 ## date
 date <- Sys.time()
