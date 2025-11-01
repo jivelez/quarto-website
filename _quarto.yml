@@ -13,10 +13,10 @@ website:
         text: ""
      # - href: teaching.qmd
     #    text: ""
-    #  - href: awards.qmd
-    #    text: ""
-     # - href: media.qmd
-    #    text: ""        
+      - href: awards.qmd
+        text: ""
+      - href: media.qmd
+        text: ""        
       - href: publications.qmd
         text: ""
 format:
