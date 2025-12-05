@@ -4,26 +4,23 @@ title: ""
 
 <br>
 
-<center>
-<img src="images/avatarinred.png" width="28%"/>
-</center>
+<center><img src="images/avatarinred.png" width="28%"/></center>
 
 <br>
 
 <!-- ![](https://www.uninorte.edu.co/documents/13969336/22078217/JORGE%20V%C3%89LEZ%20-%20%20INGENIERO%20INDUSTRIAL%20CO-DIRECTOR%20DE%20PROCAM.jpg){.border fig-align="center" width=60%} -->
 
-<center><font size="+1.8">**Jorge I. Vélez, PhD**</font> <br> <font size="+1.15">Assistant Professor</font><br> 
-<font size="+1.15">Department of Industrial Engineering</font><br> 
-<font size="+1.2">Universidad del Norte, Barranquilla</font><br></center><br>
+<center><font size="+1.8">**Jorge I. Vélez, PhD**</font> <br> <font size="+1.15">Assistant Professor</font><br> <font size="+1.15">Department of Industrial Engineering</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
+
+<br>
 
 <!-- <br> -->
 
-
-I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/eh6dbyburkllg5txshtps/consulta-CvLAC.png?rlkey=oqvf7luolvcf3q3l53o5tfqut&st=gbdu3vyn&dl=0" target="_blank"> Senior Researcher</a> of the Ministry of Science, Technology, and Innovation of Colombia ([MinCIENCIAS](https://minciencias.gov.co/)). 
+I am an Assistant Professor at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), [Barranquilla](https://en.wikipedia.org/wiki/Barranquilla), [Colombia](https://en.wikipedia.org/wiki/Colombia), and <a href="https://www.dropbox.com/scl/fi/eh6dbyburkllg5txshtps/consulta-CvLAC.png?rlkey=oqvf7luolvcf3q3l53o5tfqut&st=gbdu3vyn&dl=0" target="_blank"> Senior Researcher</a> according to the [957](https://minciencias.gov.co/convocatorias/investigacion/convocatoria-nacional-actualizacion-y-transicion-para-el-reconocimiento) call of the Department of Science, Technology and Innovation of Colombia ([MinCIENCIAS](https://minciencias.gov.co/)).
 
 My research interests span applied analytics, bioinformatics, population genetics and Machine Learning. <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
-I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the  [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
+I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precision Medicine from the [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/) under the supervision of [Mauricio Arcos-Burgos](https://scholar.google.com/citations?user=MZlwFqgAAAAJ&hl=es&authuser=1). Before moving to Australia, I conducted research on statistical genetics and bioinformatics at the [National Human Genome Research Institute](https://www.genome.gov/) in Bethesda, MD, USA under the supervision of [Max Muenke](https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp) and Mauricio Arcos-Burgos, within the [Medical Genetics Branch](https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch).
 
 <!--, genetic epidemiology, predictive genomics, applied data analytics and Machine Learning. <!-- applied to Alzheimer's disease (AD), Breast and Prostate Cancer, Autoimmune Diseases (AID) and Attention Deficit Hyperactivity Disorder (ADHD). -->
 
@@ -43,11 +40,9 @@ I earned a PhD degree in Medical Sciences with emphasis in Genomics and Precisio
 <!-- Since 2020, I have been working on the identification of common functional genetic variants that modify the age of onset of Alzheimer's disease (AD) in individuals with sporadic AD, as well as variants that confer susceptibility to Attention Deficit Hyperactivity Disorder, Autoimmune diseases, and Huntington's disease in individuals from the Colombian Caribbean region. -->
 ```
 
-
-Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer).  <!-- This research initiative is dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department). -->
+Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.uninorte.edu.co/web/hospital/proyecto-de-investigacion-en-alzheimer). <!-- This research initiative is dedicated to uncovering the genetic factors influencing AD susceptibility, age of onset, and disease progression among individuals from the [Atlántico Department](https://en.wikipedia.org/wiki/Atl%C3%A1ntico_Department). -->
 
 <!--This work aims to contribute to precision medicine approaches tailored to Latin American populations. -->
-
 
 Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>.
 
@@ -69,10 +64,12 @@ day <- as.numeric(format(date,"%d"))
 <hr>
 
 <center>
-  <p>Copyright© `r year` Jorge I. Vélez <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br> 
- Last updated: `r month` `r day`, `r year`. <br> 
-</center>
 
+<p>
+
+Copyright© `r year` Jorge I. Vélez <br> Webpage made with <img src="images/quarto.png" width="100px"/> <br> Last updated: `r month` `r day`, `r year`. <br>
+
+</center>
 
 <hr>
 
