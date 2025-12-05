@@ -44,7 +44,9 @@ Since October 2022, I lead the [Alzheimer's disease (AD) SGR study](https://www.
 
 <!--This work aims to contribute to precision medicine approaches tailored to Latin American populations. -->
 
-Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>.
+Please feel free to contact me by [email](mailto:jvelezv@uninorte.edu.co). 
+
+<!-- You can find my CV <a href="https://www.dropbox.com/scl/fi/bhybp7qa7ujgx78c7qoi4/CV_Velez_JI.pdf?rlkey=p2f6ikl7dqvbt3rqazbb2wpuw&dl=0" target="_blank">here</a>. -->
 
 ```{r echo=FALSE, message=FALSE}
 ## options
