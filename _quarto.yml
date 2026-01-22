@@ -9,8 +9,8 @@ website:
     right:
       - href: index.qmd
         text: "About"
-    #  - href: students.qmd
-    #    text: ""
+      - href: students.qmd
+        text: ""
      # - href: teaching.qmd
     #    text: ""
     #  - href: awards.qmd
