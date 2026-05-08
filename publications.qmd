@@ -39,9 +39,9 @@ Selected publications are accessible below or via my academic profiles on [PubMe
 
 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Shape-Preserving Minimum Trace (SP-MinT): A Regularized Forecast Reconciliation Method for Hierarchical Time Series. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Scientific Reports_.
 
-1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: green; background-color: #d4edda;">To Appear</code>, _Axioms_.
+1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Axioms](https://www.mdpi.com/journal/axioms).
 
-1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning. <code style="color: green; background-color: #d4edda;">To Appear</code>, _Earthquake Spectra_.
+1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Earthquake Spectra](https://onlinelibrary.wiley.com/journal/19448201).
 
 1. Carlos M. Ferreira-Vanegas, Héctor López-Ospina, Juan Pérez, **Jorge I. Vélez**, Guisselle A. García-Llinás. Feature Policy: A hybrid approach to minimize the severity of road crashes through interventions in predictor variables. [Journal of Safety Research](https://doi.org/10.1016/j.jsr.2026.01.006), 96, 2026, pp. 300-314.
 
