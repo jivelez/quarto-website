@@ -33,13 +33,13 @@ Selected publications are accessible below or via my academic profiles on [PubMe
 
 1. Lilybeth Martinez-Olivares, Ángel Hernández, **Jorge I. Vélez**, Oscar M Vidal. Prostate Cancer, Artificial Intelligence, and Genomic Innovation (2001–2025): Global Bibliometric Analysis and Knowledge Networks with a Latin American Perspective. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Social Sciences & Humanities Open_.
 
-1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Axioms_.
-
 1. Luis Avila-Lorduy, Vicente Mercado, Juan Jiménez, **Jorge I. Vélez**, Carlos Pacheco. A Robust Machine Learning Framework for Multitemporal Bare Soil Monitoring with High Temporal Transferability. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Scientific Reports_.
 
 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Bayesian SMAP Model for Probabilistic Inflow Forecasting in Hydropower-Based Energy Systems. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Applied Water Science_.
 
 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Shape-Preserving Minimum Trace (SP-MinT): A Regularized Forecast Reconciliation Method for Hierarchical Time Series. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Scientific Reports_.
+
+1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: green; background-color: #d4edda;">To Appear</code>, _Axioms_.
 
 1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning. <code style="color: green; background-color: #d4edda;">To Appear</code>, _Earthquake Spectra_.
 
