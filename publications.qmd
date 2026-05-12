@@ -22,7 +22,7 @@ day <- as.numeric(format(date,"%d"))
 
 <!-- My research portfolio includes numerous articles in top-tier indexed journals (ISI/SCOPUS), supported by a strong citation record of 4,583 per Google Scholar. -->
 
-I have an established publication record in ISI/SCOPUS top-tier indexed journals, with `4637` citations according to [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en).
+I have an established publication record in ISI/SCOPUS top-tier indexed journals, with `4645` citations according to [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en).
 
 Selected publications are accessible below or via my academic profiles on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Velez+JI&filter=years.2007-2024&sort=pubdate), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600), [ORCID](https://orcid.org/0000-0002-3146-7899), [SciProfiles](https://sciprofiles.com/profile/661921), [WoS ResearcherID](https://www.webofscience.com/wos/author/record/NRB-9285-2025) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>. My AD Scientific Index is <a href="https://www.adscientificindex.com/scientist.php?id=844354" target="_blank"> here</a>.
 
@@ -41,7 +41,7 @@ Selected publications are accessible below or via my academic profiles on [PubMe
 
 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Shape-Preserving Minimum Trace (SP-MinT): A Regularized Forecast Reconciliation Method for Hierarchical Time Series. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _Scientific Reports_.
 
-1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Axioms](https://www.mdpi.com/journal/axioms).
+1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Mathematics](https://www.mdpi.com/journal/mathematics).
 
 1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Earthquake Spectra](https://onlinelibrary.wiley.com/journal/19448201).
 
