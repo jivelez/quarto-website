@@ -33,6 +33,16 @@ Selected publications are accessible below or via my academic profiles on [PubMe
 <!-- 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Shape-Preserving Minimum Trace (SP-MinT): A Regularized Forecast Reconciliation Method for Hierarchical Time Series. <code style="color: red; background-color: #f8d7da;">Under Review</code>, _Scientific Reports_. -->
 
 
+## Work-in-progress
+
+1. Maria I. Arrieta-Escobar, Carlos D. Paternina-Arboleda, **Jorge I. Vélez**, Guisselle A. García-Llinás. Enhancing Agricultural Decision-Making: Banana Yield Forecasting in Colombia Using Tuned Ensemble Machine Learning Models. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _AgriEngineering_.
+
+2. Jairo Ángel, **Jorge I. Vélez**, Freddy Hernández. G-CuT: A Symmetrized Information-Matrix Diagnostic for Multinomial GLMMs. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _Applied Mathematical Modelling_.
+
+3. Julián Ramírez-Cheyne, César Payán-Gómez, Diana López, **Jorge I. Vélez**, Wilmar Saldarriaga, Mauricio Arcos-Burgos. Fragile X Syndrome in the Largest World Clustering: II. Autosomal and Common Genetic Variation Underpinning Seizures, FXTAS, and FXPOI. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _American Journal of Medical Genetics, Part A_.
+
+4. Sonia Moreno, Felipe Gutiérrez, Shelly Langebeck, Sergio V. Flores, Jennie Erin Smith, Francisco Lopera, **Jorge I. Vélez**, Mauricio Arcos-Burgos. Four Decades of Neuropsychiatric Genetics in Colombia: Founder Effects, Gene Flow, and Geographical Mapping. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _American Journal of Medical Genetics, Part B_.
+
 1. Lilybeth Martinez-Olivares, Ángel Hernández, **Jorge I. Vélez**, Oscar M Vidal. Prostate Cancer, Artificial Intelligence, and Genomic Innovation (2001–2025): Global Bibliometric Analysis and Knowledge Networks with a Latin American Perspective. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _Social Sciences & Humanities Open_.
 
 1. Luis Avila-Lorduy, Vicente Mercado, Juan Jiménez, **Jorge I. Vélez**, Carlos Pacheco. A Robust Machine Learning Framework for Multitemporal Bare Soil Monitoring with High Temporal Transferability. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _Scientific Reports_.
@@ -41,9 +51,13 @@ Selected publications are accessible below or via my academic profiles on [PubMe
 
 1. Mauro González, **Jorge I. Vélez**, Adriana Arango-Manrique. Shape-Preserving Minimum Trace (SP-MinT): A Regularized Forecast Reconciliation Method for Hierarchical Time Series. <code style="color: #856404; background-color: #fff3cd;">Under Review</code>, _Scientific Reports_.
 
+## To appear
+
 1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Earthquake Spectra](https://onlinelibrary.wiley.com/journal/19448201).
 
 1. María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Luis C. Morales, Carlos Silvera-Redondo, Daniel A. Bolívar, Ricardo Allegri, Mauricio Arcos-Burgos, Pilar Garavito-Galofre, **Jorge I. Vélez**. Novel Blood lncRNA Biomarkers Predict Alzheimer’s Disease Severity and Specific Cognitive Dimensions. <code style="color: green; background-color: #d4edda;">To Appear</code>, [Journal of Alzheimer's disease](https://journals.sagepub.com/home/ALZ).
+
+## Published
 
 1. Ángel, J.A.; **Vélez, J.I.** Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. [Mathematics](https://doi.org/10.3390/math14122042)  2026, _14_(12), 2042. 
 
