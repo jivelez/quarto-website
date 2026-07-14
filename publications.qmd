@@ -55,6 +55,8 @@ I maintain an established publication record in ISI and SCOPUS top-tier indexed 
 
 <!-- ## Published -->
 
+1. Arrieta-Escobar, M.I.; Paternina-Arboleda, C.D.; **Vélez, J.I.**; García-Llinás, G.A. Enhancing Agricultural Decision-Making: Banana Yield Forecasting in Colombia Using Tuned Ensemble Machine Learning Models. [AgriEngineering](https://doi.org/10.3390/agriengineering8070289) 2026, _8_(7), 289. 
+
 1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning.  [Earthquake Spectra](https://onlinelibrary.wiley.com/doi/10.1002/esp4.70089), 2026, _42_(3), e70089.
 
 1. Jairo A. Ángel, **Jorge I. Vélez**. Finite-Sample Diagnostics for Random-Effects Misspecification in Poisson Generalized Linear Mixed Models. [Mathematics](https://doi.org/10.3390/math14122042)  2026, _14_(12), 2042. 
