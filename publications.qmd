@@ -55,6 +55,8 @@ I maintain an established publication record in ISI and SCOPUS top-tier indexed 
 
 <!-- ## Published -->
 
+1. Gonzalez-Sierra, M., **Vélez, J.I.** & Arango-Manrique, A. Shape-preserving minimum trace (SP-MinT): a regularized forecast reconciliation method for hierarchical time series. [Scientific Reports](https://www.nature.com/articles/s41598-026-61641-0), 2026.
+
 1. Arrieta-Escobar, M.I.; Paternina-Arboleda, C.D.; **Vélez, J.I.**; García-Llinás, G.A. Enhancing Agricultural Decision-Making: Banana Yield Forecasting in Colombia Using Tuned Ensemble Machine Learning Models. [AgriEngineering](https://doi.org/10.3390/agriengineering8070289) 2026, _8_(7), 289. 
 
 1. Juliana Rivera, **Jorge I. Vélez**, Carlos A. Arteta. Data-Driven Zonation for Seismic Exposure Modeling via Machine Learning.  [Earthquake Spectra](https://onlinelibrary.wiley.com/doi/10.1002/esp4.70089), 2026, _42_(3), e70089.
