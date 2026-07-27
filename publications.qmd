@@ -33,8 +33,6 @@ I maintain an established publication record in ISI and SCOPUS top-tier indexed 
 
 <!-- ## Submitted -->
 
-<!-- 1. Maria I. Arrieta-Escobar, Carlos D. Paternina-Arboleda, **Jorge I. Vélez**, Guisselle A. García-Llinás. Enhancing Agricultural Decision-Making: Banana Yield Forecasting in Colombia Using Tuned Ensemble Machine Learning Models. <code style="color: #856404; background-color: #fff3cd;">Submitted</code>, _AgriEngineering_. -->
-
 <!-- 2. Jairo Ángel, **Jorge I. Vélez**, Freddy Hernández. G-CuT: A Symmetrized Information-Matrix Diagnostic for Multinomial GLMMs. <code style="color: #856404; background-color: #fff3cd;">Submitted</code>, _Applied Mathematical Modelling_. -->
 
 <!-- 3. Julián Ramírez-Cheyne, César Payán-Gómez, Diana López, **Jorge I. Vélez**, Wilmar Saldarriaga, Mauricio Arcos-Burgos. Fragile X Syndrome in the Largest World Clustering: II. Autosomal and Common Genetic Variation Underpinning Seizures, FXTAS, and FXPOI. <code style="color: #856404; background-color: #fff3cd;">Submitted</code>, _American Journal of Medical Genetics, Part A_. -->
