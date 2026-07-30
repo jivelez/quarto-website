@@ -53,6 +53,8 @@ I maintain an established publication record in ISI and SCOPUS top-tier indexed 
 
 <!-- ## Published -->
 
+1. Mosquera-Heredia MI, Vidal OM, Barceló E, Morales LC, Silvera-Redondo C, Bolívar DA, Allegri R, Arcos-Burgos M, Garavito-Galofre P, **Vélez JI**. Novel blood lncRNA biomarkers associated with clinical severity and specific cognitive dimensions in Alzheimer's disease. [Journal of Alzheimer's Disease](https://journals.sagepub.com/doi/10.1177/13872877261470430), 2026.
+
 1. Gonzalez-Sierra, M., **Vélez, J.I.** & Arango-Manrique, A. Shape-preserving minimum trace (SP-MinT): a regularized forecast reconciliation method for hierarchical time series. [Scientific Reports](https://www.nature.com/articles/s41598-026-61641-0), 2026.
 
 1. Arrieta-Escobar, M.I.; Paternina-Arboleda, C.D.; **Vélez, J.I.**; García-Llinás, G.A. Enhancing Agricultural Decision-Making: Banana Yield Forecasting in Colombia Using Tuned Ensemble Machine Learning Models. [AgriEngineering](https://doi.org/10.3390/agriengineering8070289) 2026, _8_(7), 289. 
