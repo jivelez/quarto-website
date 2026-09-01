@@ -55,6 +55,8 @@ Selected publications are accessible below or via my academic profiles on [Googl
 
 <!-- ## Published -->
 
+1. Lilybeth Martinez-Olivares, Ángel Hernández, **Jorge I. Vélez**, Oscar M. Vidal. Prostate cancer, AI, and genomic innovation (2001-2025): Global bibliometric analysis with a Latin American perspective. [Social Sciences & Humanities Open](https://www.sciencedirect.com/science/article/pii/S2590291126007473), _14_(103182), pp. 1-15, 2026
+
 1. Mosquera-Heredia MI, Vidal OM, Barceló E, Morales LC, Silvera-Redondo C, Bolívar DA, Allegri R, Arcos-Burgos M, Garavito-Galofre P, **Vélez JI**. Novel blood lncRNA biomarkers associated with clinical severity and specific cognitive dimensions in Alzheimer's disease. [Journal of Alzheimer's Disease](https://journals.sagepub.com/doi/10.1177/13872877261470430), 2026.
 
 1. Gonzalez-Sierra, M., **Vélez, J.I.** & Arango-Manrique, A. Shape-preserving minimum trace (SP-MinT): a regularized forecast reconciliation method for hierarchical time series. [Scientific Reports](https://www.nature.com/articles/s41598-026-61641-0), 2026.
