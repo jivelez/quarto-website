@@ -57,7 +57,7 @@ Selected publications are accessible below or via my academic profiles on [Googl
 
 
 
-1. Landires, I.; Courville, K.; Cumbrera, R.; Bustamante, N.; Pimentel-Peralta, G.; **Vélez, J.I.**; Johnson, R.J.; Núñez-Samudio, V.; Arcos-Burgos, M. Genetic Association of APOE ε4 with Elevated Serum Uric Acid Levels in Mesoamerican Nephropathy: Evidence from Panama. [Genes](https://www.mdpi.com/2073-4425/17/12/1525), _17_ (1525), 2026.
+1. Landires, I.; Courville, K.; Cumbrera, R.; Bustamante, N.; Pimentel-Peralta, G.; **Vélez, J.I.**; Johnson, R.J.; Núñez-Samudio, V.; Arcos-Burgos, M. Genetic Association of _APOE_ ε4 with Elevated Serum Uric Acid Levels in Mesoamerican Nephropathy: Evidence from Panama. [Genes](https://www.mdpi.com/2073-4425/17/12/1525), _17_ (1525), 2026.
 
 1. Avila-Lorduy, L., Mercado, V., Jiménez-Caldera, J., **Vélez, J. I.**, Pachecho, C. A robust machine learning framework for multitemporal bare soil monitoring with high temporal transferability. [Scientific Reports](https://www.nature.com/articles/s41598-026-76033-7), _16_ (38503), 2026. 
 
